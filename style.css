@@ -447,7 +447,16 @@ body {
 
     grid-template-columns: 1fr;
 }
+/* =========================
+   SPATIAL CARDS
+========================= */
 
+.spatial-card {
+
+    max-width: 900px;
+
+    margin: 0 auto 24px auto;
+}
 
 /* =========================
    CARDS
@@ -505,16 +514,12 @@ body {
 
 .map-frame {
 
-    height: 300px;
+    height: 520px;
 }
 /* =========================
    SCATTER PLOT
 ========================= */
 
-.scatter-frame {
-
-    height: 280px;
-}
 
 .caption {
 
