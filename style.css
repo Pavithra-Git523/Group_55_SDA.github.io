@@ -447,16 +447,6 @@ body {
 
     grid-template-columns: 1fr;
 }
-/* =========================
-   SPATIAL CARDS
-========================= */
-
-.spatial-card {
-
-    max-width: 900px;
-
-    margin: 0 auto 24px auto;
-}
 
 /* =========================
    CARDS
