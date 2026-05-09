@@ -510,6 +510,8 @@ body {
     border-radius: 14px;
 
     background: white;
+      
+    overflow: hidden;
 }
 
 /* =========================
