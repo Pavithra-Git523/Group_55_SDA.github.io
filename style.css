@@ -512,14 +512,13 @@ body {
     background: white;
 }
 
-.map-frame {
-
-    height: 520px;
-}
 /* =========================
    SCATTER PLOT
 ========================= */
+.scatter-frame {
 
+    height: 300px;
+}
 
 .caption {
 
