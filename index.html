@@ -2,10 +2,17 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Public Toilet Accessibility Dashboard</title>
+  <meta charset="UTF-8" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>
+    Public Toilet Accessibility Dashboard
+  </title>
 
   <link rel="stylesheet" href="style.css" />
 
@@ -13,6 +20,7 @@
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
   />
+
 </head>
 
 <body>
@@ -28,8 +36,11 @@
       </div>
 
       <div>
+
         <h1>Public Toilet Accessibility</h1>
+
         <p>Denmark Municipalities</p>
+
       </div>
 
     </div>
@@ -40,20 +51,22 @@
       class="sidebar-image"
     />
 
+    <!-- ABOUT -->
+
     <div class="about-box">
 
       <h3>About This Project</h3>
 
       <p>
         This project explores the accessibility of public toilets across selected
-        Danish municipalities. We analyze accessibility, distribution, opening
-        hours, and available facilities to understand how well public toilets meet
-        the needs of everyone.
+        Danish municipalities. We analyze accessibility, distribution,
+        opening hours, and available facilities to understand how well
+        public toilets meet the needs of everyone.
       </p>
 
     </div>
 
-    <!-- ===== STATS ===== -->
+    <!-- STATS -->
 
     <div class="stat-card">
 
@@ -62,9 +75,13 @@
       </div>
 
       <div>
+
         <span>Total Toilets</span>
+
         <strong>2,649</strong>
+
         <p>Across 9 municipalities</p>
+
       </div>
 
     </div>
@@ -76,9 +93,13 @@
       </div>
 
       <div>
+
         <span>Accessible Toilets</span>
+
         <strong>1,563</strong>
+
         <p>58.9% of total</p>
+
       </div>
 
     </div>
@@ -90,9 +111,13 @@
       </div>
 
       <div>
+
         <span>Population Covered</span>
+
         <strong>1.45M</strong>
+
         <p>Total population</p>
+
       </div>
 
     </div>
@@ -104,9 +129,13 @@
       </div>
 
       <div>
+
         <span>Municipalities</span>
+
         <strong>9</strong>
+
         <p>Analyzed in this study</p>
+
       </div>
 
     </div>
@@ -121,21 +150,31 @@
 
   <main class="main">
 
-    <!-- ================= TOP NAV ================= -->
+    <!-- ================= NAVBAR ================= -->
 
     <header class="top-header">
 
       <nav class="top-nav">
 
-        <a href="#overview" class="nav-active">Overview</a>
+        <a href="#overview-section" class="nav-active">
+          Overview
+        </a>
 
-        <a href="#spatial">Spatial Distribution</a>
+        <a href="#spatial-section">
+          Spatial Distribution
+        </a>
 
-        <a href="#time">Accessibility Over Time</a>
+        <a href="#time-section">
+          Accessibility Over Time
+        </a>
 
-        <a href="#search">Find a Toilet</a>
+        <a href="#find-section">
+          Find a Toilet
+        </a>
 
-        <a href="#about">About</a>
+        <a href="#about">
+          About
+        </a>
 
       </nav>
 
@@ -149,20 +188,26 @@
 
     <div class="content-wrapper">
 
-      <!-- ================= HERO ================= -->
+      <!-- HERO -->
 
       <section class="hero-banner">
 
         <div class="hero-left">
 
-          <h1>Making Public Toilets Accessible for Everyone</h1>
+          <h1>
+            Making Public Toilets Accessible for Everyone
+          </h1>
 
           <p>
-            Exploring where public toilets are located, how accessible they are,
-            when they are available, and what facilities they provide.
+            Exploring where public toilets are located,
+            how accessible they are,
+            when they are available,
+            and what facilities they provide.
           </p>
 
         </div>
+
+        <!-- INSIGHT CARD -->
 
         <div class="insight-card">
 
@@ -175,8 +220,9 @@
             <h3>Key Insight</h3>
 
             <p>
-              High population density does not always mean better accessibility.
-              Some smaller municipalities provide better access per person.
+              High population density does not always mean
+              better accessibility. Some smaller municipalities
+              provide better access per person.
             </p>
 
           </div>
@@ -185,129 +231,214 @@
 
       </section>
 
-      <!-- ================= DASHBOARD GRID ================= -->
+      <!-- ================= OVERVIEW ================= -->
 
-      <section class="dashboard-grid">
+      <section
+        id="overview-section"
+        class="section-block"
+      >
 
-        <!-- CARD 1 -->
+        <div class="section-heading">
 
-        <div class="card" id="overview">
+          <h2>Overview</h2>
 
-          <h3>
-            1. Share of Accessible Public Toilets by Municipality
-            <span><i class="fa-regular fa-circle-info"></i></span>
-          </h3>
-
-          <img
-            src="plots/accessible_share.png"
-            alt="Accessible share"
-            class="chart-img"
-          />
-
-        </div>
-
-        <!-- CARD 2 -->
-
-        <div class="card">
-
-          <h3>
-            2. Total vs Accessible Public Toilets by Municipality
-            <span><i class="fa-regular fa-circle-info"></i></span>
-          </h3>
-
-          <img
-            src="plots/total_vs_accessible.png"
-            alt="Total vs accessible"
-            class="chart-img"
-          />
-
-        </div>
-
-        <!-- CARD 3 -->
-
-        <div class="card">
-
-          <h3>
-            3. Population Density vs Per Capita Toilets
-            <span><i class="fa-regular fa-circle-info"></i></span>
-          </h3>
-
-          <iframe
-            src="plots/scatter_plot.html"
-            class="plot-frame"
-          ></iframe>
-
-          <p class="caption">
-            Bubble size represents total number of toilets
+          <p>
+            General accessibility indicators across Danish municipalities.
           </p>
 
         </div>
 
-        <!-- CARD 4 -->
+        <div class="dashboard-grid">
 
-        <div class="card" id="spatial">
+          <!-- FIGURE 1 -->
 
-          <h3>
-            4. Toilet Distribution by Municipality (Interactive Map)
-            <span><i class="fa-regular fa-circle-info"></i></span>
-          </h3>
+          <div class="card">
 
-          <iframe
-            src="maps/toilet_distribution_map.html"
-            class="plot-frame map-frame"
-          ></iframe>
+            <h3>
+              1. Share of Accessible Public Toilets by Municipality
+            </h3>
 
-        </div>
+            <img
+              src="plots/accessible_share.png"
+              alt="Accessible share"
+              class="chart-img"
+            />
 
-        <!-- CARD 5 -->
+          </div>
 
-        <div class="card" id="time">
+          <!-- FIGURE 2 -->
 
-          <h3>
-            5. Opening Hours Heatmap
-            <span><i class="fa-regular fa-circle-info"></i></span>
-          </h3>
+          <div class="card">
 
-          <iframe
-            src="plots/opening_hours_heatmap.html"
-            class="plot-frame"
-          ></iframe>
+            <h3>
+              2. Total vs Accessible Public Toilets by Municipality
+            </h3>
 
-        </div>
+            <img
+              src="plots/total_vs_accessible.png"
+              alt="Total vs accessible"
+              class="chart-img"
+            />
 
-        <!-- CARD 6 -->
-
-        <div class="card" id="search">
-
-          <h3>
-            6. Find a Toilet — Facility Selection
-            <span><i class="fa-regular fa-circle-info"></i></span>
-          </h3>
-
-          <iframe
-            src="maps/facility_filter_map.html"
-            class="plot-frame map-frame"
-          ></iframe>
+          </div>
 
         </div>
 
       </section>
 
-      <!-- ================= STORY SECTION ================= -->
+      <!-- ================= SPATIAL DISTRIBUTION ================= -->
 
-      <section class="story-section" id="about">
+      <section
+        id="spatial-section"
+        class="section-block"
+      >
 
-        <h2>Understanding Accessibility Beyond Numbers</h2>
+        <div class="section-heading">
+
+          <h2>Spatial Distribution</h2>
+
+          <p>
+            Understanding where toilets are located and how accessibility differs spatially.
+          </p>
+
+        </div>
+
+        <div class="dashboard-grid">
+
+          <!-- FIGURE 3 -->
+
+          <div class="card">
+
+            <h3>
+              3. Population Density vs Per Capita Toilets
+            </h3>
+
+            <iframe
+              src="plots/scatter_plot.html"
+              class="plot-frame"
+            ></iframe>
+
+            <p class="caption">
+              Bubble size represents total number of toilets.
+            </p>
+
+          </div>
+
+          <!-- FIGURE 4 -->
+
+          <div class="card">
+
+            <h3>
+              4. Toilet Distribution by Municipality
+            </h3>
+
+            <iframe
+              src="maps/toilet_distribution_map.html"
+              class="plot-frame map-frame"
+            ></iframe>
+
+          </div>
+
+        </div>
+
+      </section>
+
+      <!-- ================= ACCESSIBILITY OVER TIME ================= -->
+
+      <section
+        id="time-section"
+        class="section-block"
+      >
+
+        <div class="section-heading">
+
+          <h2>Accessibility Over Time</h2>
+
+          <p>
+            Accessibility also depends on whether toilets are open when people need them.
+          </p>
+
+        </div>
+
+        <div class="single-grid">
+
+          <div class="card">
+
+            <h3>
+              5. Opening Hours Heatmap
+            </h3>
+
+            <iframe
+              src="plots/opening_hours_heatmap.html"
+              class="plot-frame"
+            ></iframe>
+
+          </div>
+
+        </div>
+
+      </section>
+
+      <!-- ================= FIND A TOILET ================= -->
+
+      <section
+        id="find-section"
+        class="section-block"
+      >
+
+        <div class="section-heading">
+
+          <h2>Find a Toilet</h2>
+
+          <p>
+            Search toilets based on accessibility features and facilities.
+          </p>
+
+        </div>
+
+        <div class="single-grid">
+
+          <div class="card">
+
+            <h3>
+              6. Find a Toilet — Facility Selection
+            </h3>
+
+            <iframe
+              src="maps/facility_filter_map.html"
+              class="plot-frame map-frame"
+            ></iframe>
+
+          </div>
+
+        </div>
+
+      </section>
+
+      <!-- ================= ABOUT SECTION ================= -->
+
+      <section
+        class="story-section"
+        id="about"
+      >
+
+        <h2>
+          Understanding Accessibility Beyond Numbers
+        </h2>
 
         <p>
           Public toilet accessibility is not only about the number of toilets.
           It depends on whether toilets are accessible for disabled users,
-          where they are located, when they are open, and what facilities they provide.
+          where they are located,
+          when they are open,
+          and what facilities they provide.
         </p>
 
         <p>
-          This dashboard combines spatial analysis, temporal availability,
-          and facility-level accessibility to provide a more complete view
+          This dashboard combines spatial analysis,
+          temporal availability,
+          and facility-level accessibility
+          to provide a more complete view
           of public toilet accessibility across Danish municipalities.
         </p>
 
@@ -330,7 +461,9 @@
 
             <p>
               Accessibility also depends on features like wheelchair access,
-              baby changing tables, water availability, and free usage.
+              baby changing tables,
+              water availability,
+              and free usage.
             </p>
 
           </div>
