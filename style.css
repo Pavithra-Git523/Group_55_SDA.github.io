@@ -507,6 +507,14 @@ body {
 
     height: 500px;
 }
+/* =========================
+   SCATTER PLOT
+========================= */
+
+.scatter-frame {
+
+    height: 320px;
+}
 
 .caption {
 
