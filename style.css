@@ -12,7 +12,8 @@ body {
     font-family: "Segoe UI", Arial, sans-serif;
     background: #f4f7fb;
     color: #1b2640;
-    display: flex;
+    display: grid;
+    grid-template-columns: 320px 1fr;
 }
 
 /* =========================
@@ -22,14 +23,12 @@ body {
 .sidebar {
     width: 320px;
     min-height: 100vh;
-    background: linear-gradient(
-        180deg,
-        #04152f 0%,
-        #06265d 100%
-    );
+    background: linear-gradient(180deg, #04152f 0%, #06265d 100%);
     color: white;
     padding: 24px;
-    position: fixed;
+    position: sticky;
+    top: 0;
+    height: 100vh;
     overflow-y: auto;
 }
 
@@ -129,9 +128,9 @@ body {
 ========================= */
 
 .main {
-    margin-left: 360px;
-    width: calc(100% - 340px);
+    width: 100%;
     padding: 24px 40px;
+    overflow-x: hidden;
 }
 
 /* =========================
