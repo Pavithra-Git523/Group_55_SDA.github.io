@@ -3,12 +3,16 @@
 ========================= */
 
 * {
+
     margin: 0;
+
     padding: 0;
+
     box-sizing: border-box;
 }
 
 html {
+
     scroll-behavior: smooth;
 }
 
@@ -201,14 +205,12 @@ body {
 
 
 /* =========================
-   MAIN CONTENT
+   MAIN
 ========================= */
 
 .main {
 
     width: 100%;
-
-    padding: 0;
 
     overflow-x: hidden;
 }
@@ -294,7 +296,7 @@ body {
 
 
 /* =========================
-   CONTENT WRAPPER
+   CONTENT
 ========================= */
 
 .content-wrapper {
@@ -304,7 +306,7 @@ body {
 
 
 /* =========================
-   HERO BANNER
+   HERO
 ========================= */
 
 .hero-banner {
@@ -317,7 +319,7 @@ body {
 
     gap: 26px;
 
-    margin-bottom: 34px;
+    margin-bottom: 40px;
 }
 
 .hero-left {
@@ -394,7 +396,40 @@ body {
 
 
 /* =========================
-   DASHBOARD GRID
+   SECTION HEADINGS
+========================= */
+
+.section-block {
+
+    margin-bottom: 50px;
+}
+
+.section-heading {
+
+    margin-bottom: 24px;
+}
+
+.section-heading h2 {
+
+    font-size: 36px;
+
+    color: #162849;
+
+    margin-bottom: 8px;
+}
+
+.section-heading p {
+
+    color: #60718c;
+
+    font-size: 16px;
+
+    line-height: 1.7;
+}
+
+
+/* =========================
+   GRID LAYOUTS
 ========================= */
 
 .dashboard-grid {
@@ -404,6 +439,13 @@ body {
     grid-template-columns: 1fr 1fr;
 
     gap: 24px;
+}
+
+.single-grid {
+
+    display: grid;
+
+    grid-template-columns: 1fr;
 }
 
 
@@ -429,13 +471,6 @@ body {
     font-size: 20px;
 
     color: #1d2d4f;
-}
-
-.card h3 span {
-
-    color: #7d91b0;
-
-    font-size: 16px;
 }
 
 
