@@ -1,10 +1,148 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My Data Viz Site</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Public Toilet Accessibility in Denmark</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
-    <h1>Hello World!</h1>
-    <p>This site will soon contain interactive data visualizations about crime in San Francisco.</p>
+
+  <aside class="sidebar">
+    <div class="logo">🚻</div>
+    <h2>Public Toilet Accessibility</h2>
+    <p>Denmark Municipalities</p>
+
+    <div class="about">
+      <h3>About this project</h3>
+      <p>
+        This project explores public toilet accessibility across selected Danish municipalities,
+        focusing on accessibility, population context, spatial distribution, opening hours,
+        and user-specific facilities.
+      </p>
+    </div>
+
+    <div class="stat-card">
+      <span>Total Toilets</span>
+      <strong>649</strong>
+      <small>Across 9 municipalities</small>
+    </div>
+
+    <div class="stat-card">
+      <span>Accessible Toilets</span>
+      <strong>382</strong>
+      <small>Disabled-accessible toilets</small>
+    </div>
+
+    <div class="stat-card">
+      <span>Municipalities</span>
+      <strong>9</strong>
+      <small>Included in analysis</small>
+    </div>
+  </aside>
+
+  <main class="main-content">
+
+    <nav class="topnav">
+      <a href="#overview">Overview</a>
+      <a href="#population">Population Context</a>
+      <a href="#spatial">Spatial Distribution</a>
+      <a href="#time">Opening Hours</a>
+      <a href="#search">Find a Toilet</a>
+    </nav>
+
+    <section class="hero">
+      <div>
+        <h1>Making Public Toilets Accessible for Everyone</h1>
+        <p>
+          Exploring where public toilets are located, how accessible they are,
+          when they are available, and what facilities they provide.
+        </p>
+      </div>
+
+      <div class="insight-box">
+        <h3>Key Insight</h3>
+        <p>
+          A high number of toilets does not always mean better accessibility.
+          Accessibility depends on location, opening hours, and user-specific facilities.
+        </p>
+      </div>
+    </section>
+
+    <section id="overview" class="grid two-col">
+      <div class="card">
+        <h3>1. Share of Accessible Public Toilets</h3>
+        <img src="plots/accessible_share.png" alt="Accessible toilets by municipality">
+        <p>
+          Accessibility differs strongly across municipalities. Smaller municipalities can
+          have a higher accessible share even with fewer toilets overall.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>2. Total vs Accessible Toilets</h3>
+        <img src="plots/total_vs_accessible.png" alt="Total versus accessible toilets">
+        <p>
+          København has the largest number of toilets, but raw counts alone do not describe
+          accessibility quality.
+        </p>
+      </div>
+    </section>
+
+    <section id="population" class="card full">
+      <h3>3. Population Density vs Per-Capita Toilet Access</h3>
+      <iframe src="plots/scatter_plot.html"></iframe>
+      <p>
+        This plot compares population pressure with toilet access per resident. Bornholm
+        stands out as a positive outlier, while dense municipalities do not always provide
+        proportionally higher toilet access.
+      </p>
+    </section>
+
+    <section id="spatial" class="card full">
+      <h3>4. Toilet Distribution by Municipality</h3>
+      <iframe src="maps/toilet_distribution_map.html"></iframe>
+      <p>
+        The map shows how toilets are spatially distributed and whether they are
+        disabled-accessible. Blue markers represent accessible toilets and red markers
+        represent non-accessible toilets.
+      </p>
+    </section>
+
+    <section id="time" class="card full">
+      <h3>5. Opening Hours Heatmap</h3>
+      <iframe src="plots/opening_hours_heatmap.html"></iframe>
+      <p>
+        Accessibility is also temporal. A toilet may exist nearby, but it is only useful
+        if it is open when people need it.
+      </p>
+    </section>
+
+    <section id="search" class="card full">
+      <h3>6. Find a Toilet by Facilities</h3>
+      <iframe src="maps/facility_filter_map.html"></iframe>
+      <p>
+        This final interactive map allows users to filter toilets based on specific needs:
+        disabled accessibility, changing table, water availability, and free access.
+      </p>
+    </section>
+
+    <section class="conclusion">
+      <h2>Conclusion</h2>
+      <p>
+        Public toilet accessibility is not only about the number of toilets. It depends on
+        whether toilets are accessible for disabled users, where they are located, when they
+        are open, and what facilities they provide. A user-centered view gives a more complete
+        understanding of public toilet access across municipalities.
+      </p>
+    </section>
+
+    <footer>
+      <p>Built for Social Data Analysis Final Project · Data source: FindToilet and OpenDataDK</p>
+    </footer>
+
+  </main>
+
 </body>
 </html>
