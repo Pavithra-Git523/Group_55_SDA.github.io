@@ -1,0 +1,1756 @@
+id,name,city,postalcode,lat,lon,type,accessible,payment,changing_table,water,description,municipality,source
+1071,Egholmvej 19,Vallensbæk Strand,2665.0,55.620933,12.389692,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1070,Horsbred 197,Vallensbæk,2625.0,55.650566,12.35904,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1074,Højrupgårdsvej 1,Vallensbæk,2625.0,55.635456,12.367175,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1067,idræts alle 2,Vallensbæk,2625.0,55.629609,12.372302,Handicap,1,Nej,Ja,Ja,,Vallensbæk,FindToilet
+1072,Idræts alle 5,Vallensbæk,2625.0,55.632575,12.36979,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1075,Tværbækvej 1,Vallensbæk,2625.0,55.647658,12.358788,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1069,Vallensbæk Havnevej,Vallensbæk Strand,2665.0,55.61253,12.397574,Handicap,1,Nej,Ja,Ja,,Vallensbæk,FindToilet
+1068,Vallensbæk Havnevej 20,Vallensbæk Strand,2665.0,55.61218,12.398436,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1076,Vallensbæk Stationstorv 100,Vallensbæk Strand,2665.0,55.624123,12.386713,Handicap,1,Nej,Ja,Ja,,Vallensbæk,FindToilet
+1073,Vejlegårdsvej 121,Vallensbæk,2625.0,55.637841,12.358455,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+1066,Vejlegårdsvej 123,Vallensbæk,2625.0,55.638304,12.356781,Handicap,1,Nej,Nej,Ja,,Vallensbæk,FindToilet
+844,E C Hammersvej 3,Dragør,2791.0,55.594526,12.670826,Handicap,1,Nej,Nej,Ja,,Dragør,FindToilet
+808,Færgevej 12,Dragør,2791.0,55.592398,12.678446,Handicap,1,Nej,Ved ikke,Ja,,Dragør,FindToilet
+811,Gl. Havn 2,Dragør,2791.0,55.59327,12.67767,Handicap,1,Nej,Ved ikke,Ja,Havnekontoret,Dragør,FindToilet
+809,Kalvebodsvej 265,Dragør,2791.0,55.562431,12.567655,Handicap,1,Nej,Ved ikke,Ja,Ved Kongelundsfortet,Dragør,FindToilet
+858,Nordre Væl,Dragør,2791.0,55.594558,12.670872,Handicap,1,Nej,Ved ikke,Ja,,Dragør,FindToilet
+806,Prins Knuds Dæmning 1,Dragør,2791.0,55.5898,12.676057,Handicap,1,Nej,Ved ikke,Ja,,Dragør,FindToilet
+812,Strandlinien 3,Dragør,2791.0,55.5944,12.67515,Handicap,1,Nej,Ved ikke,Ja,Sejlklubben,Dragør,FindToilet
+810,Batterivej 15,Dragør,2791.0,55.5877,12.67272,Unisex,0,Nej,Ved ikke,Ja,Ved Gabriel Jensen feriekoloni,Dragør,FindToilet
+805,Gl. Havn 15,Dragør,2791.0,55.593436,12.6751,Unisex,0,Nej,Ved ikke,Ja,,Dragør,FindToilet
+807,Søndre Strandvej 50,Dragør,2791.0,55.581891,12.658076,Unisex,0,Nej,Ved ikke,Ja,"Ved Cafe Sylten. Toilettet er åbent når Caféen er åbent.
+Åbner 1. april.",Dragør,FindToilet
+795,"Hillerød bibliotek, Christiansgade 1",Hillerød,3400.0,55.927552,12.297714,Handicap,1,Nej,Ja,Ja,"Placering: I bibliotekets vandrehal
+Åbningstider: man-tors 10-18, fre-lør 10-14, søndag lukket
+Ansvarlig: teknisk serviceleder på biblioteket tlf: 72325800
+1 dame, 2 unisex, 2 handicap",Hillerød,FindToilet
+803,"P-hus øst, Østergade 3",Hillerød,3400.0,55.929916,12.304931,Handicap,1,Nej,Nej,Ja,"Placering: ?
+Åbningstider: ?
+Meget ulækkert
+Toilet er IKKE kommunens ansvar",Hillerød,FindToilet
+799,"Posen, Slotsgade 40",Hillerød,3400.0,55.931532,12.300251,Handicap,1,Nej,Nej,Ja,"Placering: ?
+Åbningstider: 7 -22
+1 dame, 1 herre, 1 handicap",Hillerød,FindToilet
+801,"Skansekirkegård, Skansevej 113",Hillerød,3400.0,55.935469,12.333538,Handicap,1,Nej,Nej,Ja,"Placering: Hvid bygning overfor p-plads, nedgang af brostensrampe eller trappe
+Åbningstider: man-torsdag 7-14.30, fredag 7-12, lør- og søndag lukket
+1 handicaptoilet",Hillerød,FindToilet
+797,Slotsarkaderne ved P-hus nord,Hillerød,3400.0,55.929885,12.29901,Handicap,1,Nej,Ja,Ja,"Placering: Slotsarkaderne ved Humac Frederiks Torv 
+Åbningstider: 6-24
+1 dame, 1 herre, 1 handicap
+Toilet er IKKE kommunens ansvar",Hillerød,FindToilet
+796,Slotsarkaderne ved P-hus syd,Hillerød,3400.0,55.928201,12.297378,Handicap,1,Nej,Ja,Ja,"Placering: Ved udgang fra arkaderne mod P-hus syd
+Åbningstider: 6-24
+Ansvarlig: Vagtpersonale, telefonnr. 28 18 46 46
+1 dame, 1 herre, 1 handicap
+Toilet er IKKE kommunens ansvar",Hillerød,FindToilet
+800,Torvet,Hillerød,3400.0,55.929335,12.302841,Handicap,1,Nej,Nej,Ja,"Placering: Mobil toiletvogn
+Åbningstider: 7 -22
+Ansvarlig: Rådighedsvagten Hillerød kommune 72328765
+Unisex + handicap i ét",Hillerød,FindToilet
+804,"Hillerød Kirkegård, Østergade 10",Hillerød,3400.0,55.929489,12.305935,Unisex,0,Nej,Nej,Ja,"Placering: ?
+Åbningstider: 7-16 i hverdage, lukket i weekender.
+1 herre 1 dame",Hillerød,FindToilet
+802,"Nyhuse Kapel, Kapelvej",Hillerød,3400.0,55.936681,12.287592,Unisex,0,Nej,Nej,Ja,"Placering: Bagsiden af kapel
+Åbningstider: Hverdage 7-14.30, lør- og søndag lukket
+1 dame, 1 herre",Hillerød,FindToilet
+762,"Bellevue Strand - Midt, Strandvejen 340",Klampenborg,2930.0,55.778203,12.59157,Handicap,1,Nej,Nej,Ja,"Placering: I bygning syd for Strandvejen 340
+Åbningstider: 7-21",Gentofte,FindToilet
+777,"Byens Hus, Hellerupvej 24",Hellerup,2900.0,55.732344,12.570634,Handicap,1,Nej,Nej,Ja,"Placering: I bygning (ved hovedindgang i nr. 24)
+Åbningstider: 7-22 (man-fre)",Gentofte,FindToilet
+761,"Charlottenlund Fort - Midt, Strandvejen 144",Charlottenlund,2920.0,55.746532,12.588719,Handicap,1,Nej,Ja,Ja,"Placering: I bygning øst for vandgrav
+Åbningstider: 7-21 Sommersæson: juni, juli og august",Gentofte,FindToilet
+767,"Charlottenlund Fort - Syd, Strandvejen 144",Charlottenlund,2920.0,55.743982,12.586283,Handicap,1,Nej,Nej,Ja,"Placering: I bygning øst for Strandvejen 144
+Åbningstider: 7-21 Hele året",Gentofte,FindToilet
+772,"Dyssegård Bibliotek, Dyssegårdsvej 24",Dyssegård,2870.0,55.732253,12.538861,Handicap,1,Nej,Ja,Ja,"Placering: I biblioteksbygning
+Åbningstider: 6-24",Gentofte,FindToilet
+778,"Gentofte Hovedbibliotek, Ahlmanns Allé 6",Hellerup,2900.0,55.737691,12.573543,Handicap,1,Nej,Ja,Ja,"Placering: I biblioteksbygning
+Åbningstider: 9-20 (man-fre) og 10-16 (lør-søn)",Gentofte,FindToilet
+765,"Gentofte Kirkegård, Gentoftegade 21",Gentofte,2820.0,55.749728,12.542079,Handicap,1,Nej,Nej,Ja,"Placering: I bygning sydøst for kirke
+Åbningstider: Hele døgnet",Gentofte,FindToilet
+755,"Gentofte Sø, Fiskebakken 7",Gentofte,2820.0,55.745928,12.53856,Handicap,1,Nej,Nej,Ja,"Placering: I bygning øst for søbred
+Åbningstider: 7-22",Gentofte,FindToilet
+766,"Hellerup Kirkegård, C.V.E. Knuths Vej 5",Hellerup,2900.0,55.731488,12.559536,Handicap,1,Nej,Nej,Ja,"Placering: I sydlig del af tidligere kapel
+Åbningstider: Hele døgnet",Gentofte,FindToilet
+774,"Jægersborg Bibliotek, Smakkegårdsvej 112",Gentofte,2820.0,55.761573,12.526808,Handicap,1,Nej,Ja,Ja,"Placering: I biblioteksbygning
+Åbningstider: 6-24",Gentofte,FindToilet
+775,"Ordrup Bibliotek, Ejgårdsvej 11",Charlottenlund,2920.0,55.758566,12.573671,Handicap,1,Nej,Ja,Ja,"Placering: I biblioteksbygning
+Åbningstider: 6-24",Gentofte,FindToilet
+764,"Ordrup Kirkegård, Ellensvej 8",Charlottenlund,2920.0,55.765169,12.576782,Handicap,1,Nej,Nej,Ja,"Placering: I nordvestlig del af tidligere kapel
+Åbningstider: 7-17",Gentofte,FindToilet
+768,"Skovshoved Havn - Nord, Skovshoved Havn 4",Charlottenlund,2920.0,55.763859,12.599825,Handicap,1,Nej,Nej,Ja,"Placering: I bygning nord for Skovshoved Havn 26A
+Åbningstider: Hele døgnet",Gentofte,FindToilet
+760,"Skovshoved Havn - Syd, Skovshoved Havn 4",Charlottenlund,2920.0,55.759589,12.599778,Handicap,1,Nej,Ja,Ja,"Placering: I bygning øst for Skovshoved Havn 10A
+Åbningstider: Hele døgnet",Gentofte,FindToilet
+758,"Teglgårsparken, Melchiorsvej 13",Charlottenlund,2920.0,55.760717,12.591034,Handicap,1,Nej,Nej,Ja,"Placering: I bygning vest for legeplads
+Åbningstider: 7-22",Gentofte,FindToilet
+776,"Vangede Bibliotek, Vangede Bygade 45",Gentofte,2820.0,55.751076,12.518486,Handicap,1,Nej,Ja,Ja,"Placering: I biblioteksbygning
+Åbningstider: 6-24",Gentofte,FindToilet
+770,"Bellevue Strand - Nord, Strandvejen 340",Klampenborg,2930.0,55.780054,12.592594,Unisex,0,Nej,Nej,Ja,"Placering: I bygning Bellevue Strand 14
+Åbningstider: 7-21",Gentofte,FindToilet
+763,"Bellevue Strand - Syd, Strandvejen 340",Klampenborg,2930.0,55.776379,12.591653,Unisex,0,Nej,Nej,Ja,"Placering: I bygning Strandvejen 338A
+Åbningstider: 7-21",Gentofte,FindToilet
+754,"Femvejen, Femvejen 1",Charlottenlund,2920.0,55.757935,12.557787,Unisex,0,Nej,Nej,Ja,"Placering: I bygning sydvest for rundkørsel
+Åbningstider: 7-22",Gentofte,FindToilet
+773,"Gentoftegade Bibliotek, Gentoftegade 45",Gentofte,2820.0,55.746575,12.541293,Unisex,0,Nej,Ja,Ja,"Placering: I biblioteksbygning
+Åbningstider: 6-24",Gentofte,FindToilet
+756,"Hellerup Havn, Strandparksvej 38",Hellerup,2900.0,55.732703,12.579768,Unisex,0,Nej,Nej,Ja,"Placering: I bygning Onsgårdsvej 18A
+Åbningstider: 7-22",Gentofte,FindToilet
+771,"Mariebjerg Kirkegård, Mariebjergvej 1",Gentofte,2820.0,55.759413,12.515254,Unisex,0,Nej,Nej,Ja,"Placering: I bygning øst for kirkegårdskontor
+Åbningstider: Hele døgnet",Gentofte,FindToilet
+769,"Skovshoved Havn - Midt, Skovshoved Havn 4",Charlottenlund,2920.0,55.762048,12.599639,Unisex,0,Nej,Nej,Ja,"Placering: I bygning Skovshoved Havn 1B
+Åbningstider: Hele døgnet",Gentofte,FindToilet
+757,"Vangede bydelscenter, Vangede Bygade 38",Gentofte,2820.0,55.751595,12.518376,Unisex,0,Nej,Nej,Ja,"Placering: I bygning nordøst på parkeringsplads
+Åbningstider: 7-22",Gentofte,FindToilet
+759,"Øregårdsparken, Tranegårdsvej 1",Hellerup,2900.0,55.739702,12.5761,Unisex,0,Nej,Nej,Ja,"Placering: I bygning nord for legeplads
+Åbningstider: 7-22",Gentofte,FindToilet
+704,"Aksel Møllers Have, ved Metronomen",Frederiksberg,2000.0,55.686441,12.533168,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Fritstående toilet.
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+703,Fasanvejen Metro v. P. Andersens Vej,Frederiksberg,2000.0,55.681818,12.523107,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Fritstående toilet.
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+701,"Frbg. Rådhus, Frederiksberg Bredegade",Frederiksberg,2000.0,55.677862,12.532472,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Fritstående toilet.
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+705,"Frederiksberg Alle 59, Frederiksberg ældre Kirkegård v. Kirken",Frederiksberg,1820.0,55.674447,12.533389,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+724,Frederiksberg Metro,Frederiksberg,2000.0,55.68119,12.531432,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Fritstående toilet.
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+709,"Lindevangsparken, Finsensvej 39D",Frederiksberg,2000.0,55.681596,12.512017,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+727,Rosenørns Alle,Frederiksberg,1970.0,55.681572,12.553555,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Julius Thomsens Plads.
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+743,"Roskildevej 54, Solbjerg Parkkirkegård",Frederiksberg,2000.0,55.672969,12.509677,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+744,"Roskildevej 59, Søndermark Kirkegård, v. krematorium",Frederiksberg,2000.0,55.670944,12.50964,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+702,V_Frederiksberg Allé 69,Frederiksberg,1820.0,55.674534,12.533364,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Fritstående toilet.
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+742,200m fra Cisternerne i Søndermarken,Frederiksberg,2000.0,55.668363,12.522665,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+729,Auditorium Frederiksberg Slot,Frederiksberg,2000.0,55.671889,12.525701,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+730,"Biblioteket, Danasvej 30B",Frederiksberg,1910.0,55.679476,12.550796,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+731,"Biblioteket, Nordens Plads 10 Domus Vista",Frederiksberg,2000.0,55.671195,12.501275,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+732,"Bülowshallen, Bülowsvej 34",Frederiksberg,2000.0,55.682299,12.545167,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+733,"Den gule Villa, Dirch Passers Allé 2",Frederiksberg,2000.0,55.682465,12.505652,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+734,Frederiksberg Centret,Frederiksberg,2000.0,55.681349,12.533822,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+735,"Frederiksberg Hallerne, Jens Jessens Vej",Frederiksberg,2000.0,55.676005,12.497521,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+736,Frederiksberg Runddel 1,Frederiksberg,2000.0,55.674617,12.531258,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+737,"Hovedbibliotektet, Falkoner Plads 3",Frederiksberg,2000.0,55.680754,12.530278,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+738,"I Frederiksberg Have, ved Legeplads Runddelen",Frederiksberg,2000.0,55.676141,12.529755,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+739,Kedelhallen Nyelandsvej 75B,Frederiksberg,2000.0,55.684042,12.5217,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+723,Langelands Plads,Frederiksberg,2000.0,55.685343,12.529775,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+740,"Mariendalshallen, Mariendalsvej 21C",Frederiksberg,2000.0,55.689037,12.537354,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+741,"Møstings Hus, Andebakkesti 5",Frederiksberg,2000.0,55.678346,12.527838,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+707,"Søndre Fasanvej 34, Solbjerg Kirkegård v. Søndre kapel",Frederiksberg,2000.0,55.673977,12.517469,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Begrænsede åbningstider.",Frederiksberg,FindToilet
+728,"Thorvaldsensvej, Den Grønne Sti/v. KVL",Frederiksberg,2000.0,55.681722,12.540984,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: ?
+Åbningstider: Åbent hele døgnet.",Frederiksberg,FindToilet
+563,"Bombegrunden, Taarbæk Strandvej 40",Klampenborg,2930.0,55.78261,12.59251,Handicap,1,Ja,Ja,Ja," Sæsonåbent 
+1. april - 30. september.",Lyngby-Taarbæk,FindToilet
+561,"Den Gamle Have, Nybrovej 461",Kgs. Lyngby,2800.0,55.78009,12.44471,Handicap,1,Nej,Nej,Ja,"Herretoilet.
+Dametoilet.
+Handicapvenlig indretning på dametoilettet.
+ Sæsonåbent 
+1. april - 30. september.",Lyngby-Taarbæk,FindToilet
+693,"Dyrehaven, Ermelundsvej ved Fortunen",Kgs. Lyngby,2800.0,55.775289,12.54485,Handicap,1,Nej,Nej,Ja,"Toilet er IKKE kommunens ansvar
+Placering: Inden for den Røde Port i Dyrehaven og så til højre.
+Åbningstider: Åbent hele året.",Lyngby-Taarbæk,FindToilet
+696,"Dyrehaven, Nordre Eremitagevej",Kgs. Lyngby,2800.0,55.795707,12.571752,Handicap,1,Nej,Nej,Ja,"Toilet er IKKE kommunens ansvar
+Placering: Lige ved siden af Eremitageslottet.
+Åbningstider: Åbent hele året.",Lyngby-Taarbæk,FindToilet
+694,"Dyrehaven, Strandvejen 817, Springforbi",Klampenborg,2960.0,55.801472,12.584583,Handicap,1,Nej,Nej,Ja,"Toilet er IKKE kommunens ansvar
+Placering: Springforbivej.
+Åbningstider: Åbent hele året.",Lyngby-Taarbæk,FindToilet
+695,"Dyrehaven, Ved Hjortekæret 12",Kgs. Lyngby,2800.0,55.800086,12.544867,Handicap,1,Nej,Nej,Ja,"Toilet er IKKE kommunens ansvar
+Placering: ?.
+Åbningstider: Sommeråbent maj - november.",Lyngby-Taarbæk,FindToilet
+562,"Frederiksdal Fribad, Frederiksdal Badesti",Virum,2830.0,55.78522,12.44425,Handicap,1,Nej,Ja,Ja,"Toilet er IKKE kommunens ansvar
+Handicaptoilet med pusleplads.
+Herre- og dametoiletter.
+Herre og dame brusekabiner.
+ Sæsonåbent 
+1. april - 31. oktober.",Lyngby-Taarbæk,FindToilet
+558,"Fuglevad Station, Skovbrynet 100",Kgs. Lyngby,2800.0,55.78456,12.49696,Handicap,1,Nej,Ja,Ja, Sæsonåbent 1. april til 30. september.,Lyngby-Taarbæk,FindToilet
+700,"Klampenborg station, Dyrehavevej 1",Klampenborg,2930.0,55.777491,12.587457,Handicap,1,Ja,Ja,Ja,"Toilet er IKKE kommunens ansvar
+Placering: ?.
+Åbningstider: 6:00-22:00.
+Betaling: 5 kr. som betales med kort.
+Tjek: https://www.dsb.dk/trafikinformation/stationer/klampenborg/",Lyngby-Taarbæk,FindToilet
+550,Lyngby Hovedgade 28,Kgs. Lyngby,2800.0,55.77332,12.49898,Handicap,1,Nej,Ja,Ja,"Almindeligt og handicaptoilet.
+Pusleplads.
+Åbningstider:
+Mandag-fredag: 8.00-20.00
+Lørdag-søndag: 11.00-16.00",Lyngby-Taarbæk,FindToilet
+1063,"Lyngby Idrætsby, Lundtoftevej 53",Kongens Lyngby,2800.0,55.781141,12.507091,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Der er flere toiletter åbent for offentligheden. Åbent i idrætsbyens åbningstid.
+Åbningstider:
+Mandag: 06.45 - 08.00 og 13.00 - 19.30​
+Tirsdag: 06.45 - 21.00​
+Onsdag: 06.45 - 22.00
+Torsdag: 06.45 - 21.00
+Fredag: 06.45 - 17.30​l
+Lørdag: 08.00 - 16.30​
+Søndag: 08.00 - 16.30​",Lyngby-Taarbæk,FindToilet
+699,"Lyngby station, Jernbanepladsen 47",Kgs. Lyngby,2800.0,55.76869,12.502797,Handicap,1,Ja,Ja,Ja,"Toilet er IKKE kommunens ansvar
+Placering: Op ad trappen fra Jernbanepladsen til perronen, hvor de ligger til venstre.
+Åbningstider: 6:00-22:00.
+Betaling: 5 kr. som betales med kort.
+Tjek: https://www.dsb.dk/trafikinformation/stationer/lyngby/",Lyngby-Taarbæk,FindToilet
+698,Lyngby Storcenter 1,Kgs. Lyngby,2800.0,55.771644,12.507074,Handicap,1,Nej,Nej,Ja,"Toilet er IKKE kommunens ansvar
+Placering:
+Stueplan mellem Hunkemöller og Helsemin: 3 dametoiletter, 2 herretoiletter, 1 handicaptoilet.
+1 sal bag Elgiganten: 5 dametoiletter, 3 herretoiletter, 1 handicaptoilet. (lift)
+1. sal bag Søstrene Grene: 1 stk. unisextoilet forbeholdt gæster i baby-lounge/ammestue/puslerum.
+Niveau – 1 i rødt område: rulletrappe mellem H&M og Matas: 4 dametoiletter, 1 herretoilet.
+Niveau – 1 i blåt område/Madtorvet/Store Torv: rulletrappe ved Madtorvet: 3 dametoiletter, 1 herretoilet.
+Åbningstider: Tjek https://lyngbystorcenter.dk/aabningstider/.",Lyngby-Taarbæk,FindToilet
+548,Lyngby Torv 17,Kgs. Lyngby,2800.0,55.76976,12.50227,Handicap,1,Nej,Nej,Ja,"Almindeligt og handicap toilet.
+Unisex.
+Toiletterne på rådhuset er åbent for offentligheden i borgerservice åbningstid.
+Der er kommet nye toiletter efter renoveringen
+Åbningstider:
+Mandag	09.30 – 15.00
+Tirsdag	09.30 – 15.00
+Onsdag	09.30 – 15.00
+Torsdag	09.30 – 17.30
+Fredag	09.00 – 13.30",Lyngby-Taarbæk,FindToilet
+697,"Magasin, Lyngby Hovedgade 43",Kgs. Lyngby,2800.0,55.770154,12.504058,Handicap,1,Nej,Ja,Ja,"Toilet er IKKE kommunens ansvar
+Placering: 4 unisex toiletter på 3. sal (bolig) + 1 handicap & pusle toilet samt familierum placeret samme sted.
+Åbningstider: Tjek https://www.magasin.dk/sider/om-magasin/find-forretning/lyngby.html.",Lyngby-Taarbæk,FindToilet
+1096,"Sorgenfri kirkegård, Lottenborgvej 16",Kongens Lyngby,2800.0,55.779905,12.489806,Handicap,1,Nej,Nej,Ja,"Placering: Sorgenfri kirkegård.
+Åbningstider: Hele året, men lukket om natten.
+Tommy Wedel har gjort et kæmpe arbejde for at få dette til at ske og skriver på sin Facebook side:
+""Så kan vi hejse flaget. Toilettet på Sorgenfri kirkegård er åbnet. Det har været en hård tur med et par års ventetid, nu kan vi endelig benytte et toilet hvad enten man er i kørestol eller med sin rollator. Det er smukt lavet med en rampe op og masser af plads til at kunne komme rundt derinde. Toiletterne vil være lukket om natten og fint med det. Lad os i fællesskab passe på dem de er jo til fælles glæde""",Lyngby-Taarbæk,FindToilet
+560,"Søpromenaden, Lyngby Sø",Virum,2830.0,55.77323,12.49393,Handicap,1,Nej,Nej,Ja,"Handicaptoilet.
+Herre-/dametoilet.
+ Sæsonåbent 1. april til 30. september.",Lyngby-Taarbæk,FindToilet
+565,"Taarbæk Havn, Taarbæk Strandvej 98",Klampenborg,2930.0,55.78746,12.59511,Handicap,1,Nej,Nej,Ja,"Toilet er IKKE kommunens ansvar
+Åbningstider: Åbent hele året.",Lyngby-Taarbæk,FindToilet
+564,"Taarbæk Søbad, Rosenhaven, Taarbæk Strandvej 80",Klampenborg,2930.0,55.785707,12.593599,Unisex,0,Nej,Nej,Ja,"Herretoilet.
+Dametoilet.
+Smalle døre ca. 50-60 cm.
+Udendørs brusere.
+Sæsonåbent
+1. april - 30. september.",Lyngby-Taarbæk,FindToilet
+476,Arnagervej 28,Rønne,3700.0,55.052945,14.777531,Handicap,1,Nej,Ja,Ja,"Placering: P-plads ved Arnager Havn.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+718,Borrelyngsvej 58,Allinge,3770.0,55.259545,14.764838,Handicap,1,Nej,Ja,Ja,"Placering: Slotslyngen
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+423,Boulevarden 16,Nexø,3730.0,55.03921,15.108704,Handicap,1,Nej,Ja,Ja,"Placering: Ved Balka strand og Café.
+Åbningsperiode: lukket fra 1. nov. -31. april.",Bornholm,FindToilet
+431,Bykilden,Svaneke,3740.0,55.136031,15.140033,Handicap,1,Nej,Ja,Ja,"Placering: Bykilden, bag ved Svaneke Bryghus.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+399,Bådehavnsvej 13,Rønne,3700.0,55.103691,14.691615,Handicap,1,Nej,Nej,Ja,"Placering: Nørrekås Havn - Servicebygning.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+390,"Ejnar Mikkelsensvej 29, Gudhjem",Gudhjem,3760.0,55.212293,14.971427,Handicap,1,Nej,Ja,Ja,"Placering Gudhjem Havn v/ Christiansøfarten.
+Åbningsperiode hele året.
+Åbningstider hele døgnet.",Bornholm,FindToilet
+413,Ejnar Mikkelsensvej 7C,Gudhjem,3760.0,55.214055,14.969293,Handicap,1,Nej,Ja,Ja,"Placering: P-plads ved Gudhjem havn.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+477,Ekkodalsvejen 5B,Åkirkeby,3720.0,55.109829,14.905634,Handicap,1,Nej,Ja,Ja,"Placering: P-plads ved Ekkodalen.
+Åbningsperiode: lukket fra 1. nov. -31. april.",Bornholm,FindToilet
+424,"Fyrvejen 2A, Dueodde",Nexø,3730.0,54.993638,15.077628,Handicap,1,Nej,Ja,Ja,"Placering: P-plads ved Fyrvejen på Dueodde.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+706,Fælledvej 26B,Hasle,3790.0,55.180079,14.705123,Handicap,1,Nej,Ja,Ja,"Placering:Hasle Fælled
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+407,Gilbertstræde 13B,Allinge,3770.0,55.26021,14.815155,Handicap,1,Nej,Ja,Ja,"Placering: Store Sandkås strand.
+Åbningsperiode: åbent hele året",Bornholm,FindToilet
+400,Glasværksvej 1,Hasle,3790.0,55.171064,14.708072,Handicap,1,Nej,Nej,Ja,"Placering: P-plads ved Glasværksvej.
+Åbningsperiode: lukket fra 1. nov. - 31. april.",Bornholm,FindToilet
+915,Haregade 14c,Åkirkeby,3790.0,55.061955,14.921532,Handicap,1,Nej,Ja,Ja,"Placering: Sdr. Byskov
+Åbningsperiode: Åbent",Bornholm,FindToilet
+398,Haslevej 146B,Rønne,3700.0,55.128953,14.716841,Handicap,1,Nej,Nej,Ja,"Placering: Rasteplads ved Sandegård.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+433,Havnegade 1A,Hasle,3790.0,55.184144,14.705387,Handicap,1,Nej,Ja,Ja,"Placering: Torvet ved Karetmagergården.
+Åbningsperiode: hele året.
+Åbningstider: Dørlås med ur. 1. maj til 1. okt. kl.7:00 - 22:00.
+1. okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+391,"Havnen 3, Tejn",Allinge,3770.0,55.247711,14.837795,Handicap,1,Nej,Ja,Ja,"Placering: Tejn Havn, ved havnekontoret.
+Åbningsperiode: hele året.
+Åbningstider: hele døgnet.",Bornholm,FindToilet
+713,Helligdomsvej 7B,Gudhjem,3760.0,55.206882,14.942262,Handicap,1,Nej,Ja,Ja,"Placering:  Rasteplads ved Bobbe bro
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+411,Helligdomsvej 8C,Gudhjem,3760.0,55.214902,14.928137,Handicap,1,Nej,Nej,Ja,"Placering: Rasteplads ved Stevelen i Rø.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+719,Hundsemyrevej 1A,Nexø,3730.0,55.026539,15.109829,Handicap,1,Nej,Ja,Ja,"Placering: Snogebæk
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+438,Jons Kapelvej 2B,Hasle,3790.0,55.231027,14.725519,Handicap,1,Nej,Nej,Ja,"Placering: Jons kapel.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+458,Kirkepladsen 2B,Åkirkeby,3720.0,55.070477,14.920519,Handicap,1,Nej,Nej,Ja,"Placering: ved Åkirkeby Grillen.
+Åbningstider: Dørlås med ur. Fra 1. maj til 1. okt. kl. 7:00 - 22:00.
+1.okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+721,Kirkevej 10D,Åkirkeby,3720.0,55.073191,14.814172,Handicap,1,Nej,Ja,Ja,"Placering: Nylars kirke
+Regional cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+441,Klemens Storegade 2,Klemensker,3782.0,55.175204,14.804564,Handicap,1,Nej,Nej,Ved ikke,"Placering: Ved busholdeplads i Klemensker.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+412,Klemenskervej 14,Gudhjem,3760.0,55.214014,14.892829,Handicap,1,Nej,Ja,Ja,"Placering: Rø busholdeplads
+Regional cykelrute 23
+Åbningsperiode: Åbent",Bornholm,FindToilet
+443,Kæmpestranden 14,Allinge,3770.0,55.277768,14.803172,Handicap,1,Nej,Ja,Ja,"Placering: Allinge Havn ved Netto.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+393,Laksetorvet 3,Rønne,3700.0,55.10426,14.6994,Handicap,1,Nej,Ja,Ja,"Placering: Gågaden.
+Åbningsperiode: hele året.
+Åbningstider: automatisk døråbning og dørlås med ur. 1. maj til 1. okt. kl. 7:00 - 22:00. Fra 1. okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+446,Lisegårdsvejen 2A,Nexø,3730.0,55.080459,15.100614,Handicap,1,Nej,Nej,Ja,"Placering: P-plads ved Lisegård, Paradisbakkerne.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+418,Melstedvej 39A,Gudhjem,3760.0,55.194325,14.988011,Handicap,1,Nej,Ja,Ja,"Placering: Kobbe strand, Melsted
+National cykelrute 10
+Åbningsperiode: Åbent",Bornholm,FindToilet
+715,Nordre Kystvej 19,Rønne,3700.0,55.103968,14.694745,Handicap,1,Nej,Ja,Ja,"Placering: Ndr. Kystvej/Nørrekås
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+426,Nybyvej 2A,Åkirkeby,3720.0,55.070286,14.919954,Handicap,1,Nej,Ja,Ja,"Placering: busholdeplads ved Kirkepladsen.
+Åbningsperiode: hele året.
+Åbningstider: Dørlås med ur. Fra 1. maj til 1. okt. kl. 7:00 - 22:00.
+1. okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+714,Nyker hovedgade 31B,Rønne,3700.0,55.139925,14.765005,Handicap,1,Nej,Ja,Ja,"Placering Nyker busholdeplads
+Regional cykelrute 23
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+716,Nyker Strandvej 19B,Hasle,3790.0,55.152471,14.717665,Handicap,1,Nej,Ja,Ja,"Placering: Sorthat/Muleby
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+445,Oksemyrevejen 12,Svaneke,3740.0,55.093461,15.109122,Handicap,1,Nej,Nej,Ja,"Placering: P-plads ved Paradisbakkerne.
+Åbningsperiode: lukket fra 1. nov. - 31. april.",Bornholm,FindToilet
+717,Randkløvevej 38C,Østermarie,3751.0,55.174643,15.023333,Handicap,1,Nej,Ja,Ja,"Placering: Saltuna/Hvide hus
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+450,"Sandvejen 18, Østre Sømark",Åkirkeby,3720.0,54.998137,15.009446,Handicap,1,Nej,Nej,Ja,"Placering: P-plads ved Sandvejen, Østre Sømark.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+395,Sct. Mortensgade,Rønne,3700.0,55.102316,14.701956,Handicap,1,Nej,Ja,Ja,"Placering: P-plads i Kollagårrinj.
+Åbningsperiode: hele året.
+Åbningstider: automatisk døråbning. Dørlås med ur. Fra 1. maj til 1. okt. kl. 7:00 - 22:00. Fra 1. okt. til 1. maj kl. 7:00 til 19:00.",Bornholm,FindToilet
+722,Segenvej 56,Åkirkeby,3720.0,55.123846,14.916572,Handicap,1,Nej,Ja,Ja,"Placering: Hareløkkerne/Almindingen
+Regional cykelrute 22
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+708,Slettevej 10B,Gudhjem,3760.0,55.214977,14.850772,Handicap,1,Nej,Ja,Ja,"Placering: Rutsker Højlyng
+Regional cykelrute 26
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+394,Snellemark 28B,Rønne,3700.0,55.101394,14.696989,Handicap,1,Nej,Ved ikke,Ja,"Placering: ved Rådhuskiosken, Snellemark.
+Åbningsperiode: hele året.
+Åbningstider: automatisk døråbning. Dørlås med ur + nødbelysning. Fra 1. maj til 1. okt. kl. 7:00 - 22:00. Fra 1. okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+397,Snorrebakken 6B,Rønne,3700.0,55.103203,14.727578,Handicap,1,Nej,Nej,Ja,"Placering: Rasteplads ved Snorrebakken.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+427,"Strandstien 1B, Listed",Svaneke,3740.0,55.145745,15.110131,Handicap,1,Nej,Ja,Ja,"Placering: Listed Havn ved siden af Guldsmed Sebastian Frost.
+Åbningsperiode:hele året.",Bornholm,FindToilet
+419,"Strandvejen 4, Årsdale",Svaneke,3740.0,55.108537,15.143512,Handicap,1,Nej,Nej,Ja,"Placering: ved Årsdale havn/strand. Passagerly.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+460,Sverigesvej 6,Allinge,3770.0,55.27921,14.800486,Handicap,1,Nej,Ja,Ja,"Placering: Allinge Havn.
+Åbningsperiode: fra uge 19 til 42.",Bornholm,FindToilet
+712,Sydskovvej,Svaneke,3740.0,55.128983,15.147828,Handicap,1,Nej,Ja,Ja,"Placering: Svaneke
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+461,"Sænevej 19, Hammerhavn",Allinge,3770.0,55.27939,14.755146,Handicap,1,Nej,Ved ikke,Ja,Placering: Ved siden af caféen ved Hammerhavn.,Bornholm,FindToilet
+475,Søndre Landevej 18B,Åkirkeby,3720.0,55.055612,14.790119,Handicap,1,Nej,Ja,Ja,"Placering: rasteplads på Søndre Landevej.
+Åbningsperiode: lukket fra 1. nov. -31. april.",Bornholm,FindToilet
+474,Søndre Landevej 86A,Åkirkeby,3720.0,55.042816,14.846494,Handicap,1,Nej,Nej,Ja,"Placering: ved rastepladsen.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+409,Søndre Strandvej 144C,Gudhjem,3760.0,55.226864,14.884614,Handicap,1,Nej,Ja,Ja,"Placering: Rasteplads ved Døndalen i Rø.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+437,Teglkåsvej 3,Hasle,3790.0,55.212122,14.707516,Handicap,1,Nej,Nej,Ja,"Placering: Helligpeder Havn.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+436,Teglkåsvej 64A,Hasle,3790.0,55.222799,14.712379,Handicap,1,Nej,Nej,Ja,"Placering: Teglkås Havn.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+711,Toldbodvej 3,Nexø,3730.0,55.06218,15.133183,Handicap,1,Nej,Ja,Ja,"Placering Nexø parkeringsplads
+National cykelrute 10
+Åbningsperiode: Åbent",Bornholm,FindToilet
+421,Torvet 15,Nexø,3730.0,55.063603,15.131327,Handicap,1,Nej,Ja,Ja,"Placering: P-plads ved torvet.
+Åbningsperiode: hele året.
+Åbningstider: Dørlås med ur. Fra 1. maj til 1 okt. kl. 7:00 - 22:00.
+1. okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+692,Vestermarievej 36C,Rønne,3700.0,55.10643,14.822759,Handicap,1,Nej,Ja,Ja,"Placering:Vestermarie by
+Regional cykelrute 22
+Åbningsperiode: Åbent",Bornholm,FindToilet
+429,Vigehavnen 1,Svaneke,3740.0,55.1388,15.139517,Handicap,1,Nej,Nej,Ja,"Placering: Vigehavn, Svaneke.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+710,Vinkelvej 17,Gudhjem,3760.0,55.164095,14.964837,Handicap,1,Nej,Ja,Ja,"Placering Østerlars
+Regional cykelrute 25
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+720,Østre Sømarksvej 10c,Åkirkeby,3720.0,55.009916,14.99184,Handicap,1,Nej,Ja,Ja,"Placering: Pedersker
+National cykelrute 10
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+467,Østre Sømarksvej 31B,Åkirkeby,3720.0,55.000351,14.989268,Handicap,1,Nej,Ja,Ja,"Placering: Bakkerne bådehavn.
+Åbningsperiode: lukket fra 1. nov. -31. april.",Bornholm,FindToilet
+396,Åkirkebyvej 192B,Rønne,3700.0,55.084252,14.748731,Handicap,1,Nej,Nej,Ja,"Placering: Rasteplads ved Robbedale.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+422,Aarsdalevej 24,Nexø,3730.0,55.094849,15.149261,Handicap,1,Nej,Ja,Ja,"Placering: Rasteplads ved Bavnet, Nørremark.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+472,Boderne 4,Åkirkeby,3720.0,55.023133,14.90447,Unisex,0,Nej,Ja,Ja,"Placering: Boderne Havn.
+Åbningsperiode: lukket fra 1. nov. -31. april.",Bornholm,FindToilet
+473,Boderne 6B,Åkirkeby,3720.0,55.023219,14.907712,Unisex,0,Nej,Nej,Ja,"Placering: P-plads ved Boderne.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+417,Bækken 2B,Gudhjem,3760.0,55.201799,14.981484,Unisex,0,Nej,Nej,Ja,"Placering: Melsted strand.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+464,Bølshavn 19B,Svaneke,3740.0,55.154386,15.076791,Unisex,0,Nej,Nej,Ja,"Placering: Bølshavn Havn.
+Åbningsperiode: lukket fra 1. nov. - 31. april.",Bornholm,FindToilet
+462,Dammegårdsvej 3,Klemensker,3782.0,55.188255,14.832264,Unisex,0,Nej,Nej,Nej,"Placering P-plads ved Dammegårdsvej, Kleven.",Bornholm,FindToilet
+403,Fælledvej 65,Hasle,3790.0,55.171805,14.715183,Unisex,0,Nej,Nej,Nej,Placering: Shelterplads i Hasle lystskov. (tørkloset) ca. 200 m. fra Fælledvej.,Bornholm,FindToilet
+1002,Galøkken strand,Rønne,3700.0,55.088809,14.700378,Unisex,0,Nej,Ja,Ja,"Placering: Ved Galøkken strand
+Åbningsperiode: Åbent",Bornholm,FindToilet
+471,Gedebakkevej 8,Åkirkeby,3720.0,55.005186,14.962008,Unisex,0,Nej,Nej,Ja,"Placering: P-plads ved Gedebakke Odde.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+414,Gråmyrvej 11,Gudhjem,3760.0,55.208258,14.968086,Unisex,0,Nej,Nej,Ja,"Placering: WC-kabine ved Holkadalen.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+480,Havnegade 38B,Allinge,3770.0,55.280977,14.797003,Unisex,0,Nej,Nej,Nej,Placering: Kampeløkkehavn.,Bornholm,FindToilet
+435,Havnen 23,Hasle,3790.0,55.18732,14.704558,Unisex,0,Nej,Nej,Ja,"Placering: Hasle Havn, servicebygning. Ved siden af Hasle Havnegrill.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+434,Havnen 7,Hasle,3790.0,55.184491,14.703062,Unisex,0,Nej,Nej,Ja,"Placering: Hasle havn ved havnekajen, på modsatte side af siloen.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+420,"Havvej, Sorthat",Rønne,3700.0,55.147502,14.706112,Unisex,0,Nej,Nej,Nej,"Placering: Tørkloset, P-plads ved Havvej.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+415,Helligdomsvej,Gudhjem,3770.0,55.208487,14.971114,Unisex,0,Nej,Ja,Ja,"Placering: P-plads ved tankstation F24.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+410,Helligdomsvej 16,Gudhjem,3760.0,55.222681,14.897812,Unisex,0,Nej,Nej,Ja,"Placering: Rasteplads ved Bornholmerpladsen i Rø.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+449,"Hovedgade 12, Snogebæk",Nexø,3730.0,55.026101,15.11858,Unisex,0,Nej,Nej,Ja,Placering: ved Folkets Hus i Snogebæk.,Bornholm,FindToilet
+478,"Jernbanevej 2, Lobbæk",Åkirkeby,3720.0,55.075278,14.834421,Unisex,0,Nej,Nej,Ja,"Placering: I forbindelse med Lobbæk Medborgerhus.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+428,Levkavej 6B,Hasle,3790.0,55.160482,14.705974,Unisex,0,Nej,Nej,Nej,"Placering: Tørkloset, P-plads ved Levkavej.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+454,Løsebækgade 13,Allinge,3770.0,55.272439,14.806483,Unisex,0,Nej,Nej,Ja,"Placering: ved Næs Badestrand.
+Åbningsperiode: lukket fra 1. nov. - 31. april.",Bornholm,FindToilet
+444,"Mor Markers Gænge 4, Listed",Svaneke,3740.0,55.146848,15.106134,Unisex,0,Nej,Nej,Ja,"Placering: Høl strand, Listed.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+463,Otto Bruuns Plads 1,Gudhjem,3760.0,55.223256,14.893059,Unisex,0,Nej,Ved ikke,Ja,Placering: Ved Bornholms Kunstmuseum.,Bornholm,FindToilet
+425,Pedersker Hovedgade 38,Åkirkeby,3720.0,55.029615,14.992559,Unisex,0,Nej,Nej,Ja,"Placering: Pedersker By ved busstoppested.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+430,Peter F. Heerings Gade 3,Svaneke,3740.0,55.136791,15.144753,Unisex,0,Nej,Nej,Ja,"Placering: Svaneke Havn.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+481,Randkløvevej 26,Østermarie,3751.0,55.165434,15.037121,Unisex,0,Nej,Nej,Nej,"Placering: Tørkloset ved P-plads til Randkløve Skår.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+439,Ringedalsvej 12A,Hasle,3790.0,55.242488,14.736544,Unisex,0,Nej,Nej,Nej,Placering: Tørkloset ved Ringebakkerne.,Bornholm,FindToilet
+451,Rønnevej 2A,Åkirkeby,3720.0,55.072563,14.913305,Unisex,0,Nej,Ja,Ja,"Placering: Busterminalen.
+Åbningsperiode: hele året.
+Åbningstider: Dørlås med ur. Fra 1. maj til 1. okt. kl. 7:00 - 22:00.
+1. okt. til 1. maj kl. 7:00 - 19:00.",Bornholm,FindToilet
+405,Sandlinien 28,Allinge,3770.0,55.289918,14.776513,Unisex,0,Nej,Ja,Ja,"Placering: Sandvig strand.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+447,"Sandstien 7, Balka",Nexø,3730.0,55.03533,15.108883,Unisex,0,Nej,Ja,Ja,"Placering: Balka strand.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+432,Skovgade 36,Svaneke,3740.0,55.131354,15.151809,Unisex,0,Nej,Nej,Ja,"Placering: Hullehavn, ved 'Syd-Øst for Paradis'.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+466,"Skrokkegårdsvejen 14, Dueodde",Nexø,3730.0,54.995435,15.086755,Unisex,0,Nej,Nej,Ja,"Placering: for enden af P-plads ved Dueodde vandrehjem.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+442,"Strandpromenaden 20B, Sandvig",Allinge,3770.0,55.288728,14.782668,Unisex,0,Nej,Ved ikke,Ja,"Placering: Sandvig Havn.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+406,Strandvejen 2B,Allinge,3770.0,55.28313,14.794199,Unisex,0,Nej,Nej,Ja,"Placering: ved Danchels Løkke.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+459,Sverigesvej 4,Allinge,3770.0,55.279363,14.800169,Unisex,0,Nej,Nej,Ja,"Placering: Allinge Havn.
+Åbningsperiode: fra uge 19 til 37.",Bornholm,FindToilet
+448,Toldbodgade 2,Nexø,3730.0,55.062568,15.133317,Unisex,0,Nej,Nej,Ja,"Placering: ved Nexø Havnegrill. Toiletterne er under jorden.
+Åbningsperiode: fra uge 21 til 42.",Bornholm,FindToilet
+468,"Udegårdsvejen 20, Dueodde",Nexø,3730.0,54.995596,15.037821,Unisex,0,Nej,Nej,Ved ikke,"Placering: tørkloset, P-plads tæt ved stranden.
+Åbningsperiode: fra uge 23 til 35.",Bornholm,FindToilet
+404,v/ Sandlinien 3,Allinge,3770.0,55.288695,14.775937,Unisex,0,Nej,Nej,Ja,"Placering: P-plads ved Sandvig Familiecamping.
+Åbningsperiode: fra uge 23 til 35.",Bornholm,FindToilet
+440,Vang 133,Hasle,3790.0,55.248931,14.736896,Unisex,0,Nej,Nej,Ja,"Placering: Vang Havn.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+465,Ypnasted 15B,Østermarie,3751.0,55.161447,15.058131,Unisex,0,Nej,Nej,Nej,"Placering: Ypnasted P-plads.
+Åbningsperiode: hele året.",Bornholm,FindToilet
+469,Ædjavejen 22B,Åkirkeby,3720.0,55.001072,14.98525,Unisex,0,Nej,Nej,Ja,"Placering: P-plads ved Ædjavejen, Østre Sømark.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+747,Ølenevej,Åkirkeby,3720.0,55.089809,15.002164,Unisex,0,Nej,Nej,Nej,"Placering: Pedersker Jagthus, vejkrydset Ølenevej, Fårebakkevej og Jagtsporet.
+Åbningsperiode:  Åbent",Bornholm,FindToilet
+470,"Ølenevej 47, Pedersker",Åkirkeby,3720.0,55.047354,14.993774,Unisex,0,Nej,Nej,Ja,"Placering: I forlængelse med Smålyngsværket
+Åbningsperiode: lukket fra 1. nov. -31. april.",Bornholm,FindToilet
+479,"Ørningevej 4, Vestermarie",Rønne,3700.0,55.113932,14.857002,Unisex,0,Nej,Nej,Ja,"Placering: I forlængelse med skydehus i Vestermarie plantage.
+Åbningsperiode: fra uge 14 til 42.",Bornholm,FindToilet
+964,Allegade 2,Helsingør,3000.0,56.038386,12.615502,Handicap,1,Nej,Ja,Ja,"Placering: gå til højre ved indgangen toiletter findes nede i kælderen.
+Mandag      08:00 — 19:00
+Tirsdag      08:00 — 19:00
+Onsdag      08:00 — 19:00
+Torsdag     08:00 — 19:00
+Fredag	 08:00 — 19:00
+Lørdag	10:00 — 17:00
+Søndag	11:00 — 17:00",Helsingør,FindToilet
+958,Havnepladsen 1,Helsingør,3000.0,56.033914,12.614258,Handicap,1,Nej,Ja,Ja,,Helsingør,FindToilet
+963,Havnevej 24C,Hornbæk,3100.0,56.092806,12.457399,Handicap,1,Nej,Nej,Ja,"Toiletterne findes bag kiosken.
+Åbningstider: 07-22:00",Helsingør,FindToilet
+961,Kystvej 24,Hornbæk,3100.0,56.09188,12.447428,Handicap,1,Nej,Nej,Ja,"Toilettet er lukket i perioden fra 16. september til 30. april
+Åbningstider: 24/7",Helsingør,FindToilet
+960,Nordre strandvej 148A,Ålsgårde,3140.0,56.075906,12.546931,Handicap,1,Nej,Nej,Ja,Åbningstider: 07-22:00,Helsingør,FindToilet
+962,Nordre Strandvej 300,Hornbæk,3100.0,56.092299,12.463954,Handicap,1,Nej,Nej,Ja,"Toilettet er Lukket i perioden 16. september til 30. april
+Åbningstider: 24/7",Helsingør,FindToilet
+959,Stjernegade 21,Helsingør,3000.0,56.035683,12.609783,Handicap,1,Nej,Nej,Ja,Åbningstider: 07:00-22:00,Helsingør,FindToilet
+956,Strandpromenaden 8,Helsingør,3000.0,56.041329,12.611687,Handicap,1,Nej,Nej,Ja,Åbningstider: 07-22:00,Helsingør,FindToilet
+953,Gammel Strandvej 215D,Espergærde,3060.0,55.980492,12.549627,Unisex,0,Nej,Ja,Ja,Toilettet er lukket i perioden 16. september til 30. april. normale åbningstider er fra 7:00-22:00,Helsingør,FindToilet
+954,Strandvejen 167,Espergærde,3060.0,55.991903,12.560657,Unisex,0,Nej,Nej,Ja,Toilettet er åbent perioden 1. maj til 14. september. det er åbent fra 7:00-22:00,Helsingør,FindToilet
+957,Strandvejen 71E,Snekkersten,3070.0,56.00828,12.587236,Unisex,0,Nej,Nej,Ja,"Toilettet er lukket i perioden 16. september til 30. april.
+Åbningstider: 24/7",Helsingør,FindToilet
+955,Strandvejen 89x,Snekkersten,3070.0,56.004348,12.577854,Unisex,0,Nej,Nej,Ja,"toilettet er lukket i perioden fra 16. september til 30. april
+Åbningstider: 24/7",Helsingør,FindToilet
+1064,Vester Søgade 2A,København V,1601.0,55.674774,12.559012,ChangingPlace,1,Nej,Ja,Ja,"Placering: På Vester Søgade lige overfor Planetariet ligger en toiletbygning, som indeholder er særligt handicaptoilet forbeholdt borgere med bevægelseshandicap. Toilettet henstår aflåst, og man skal være i besiddelse af en Europa-nøgle for at kunne låse døren op. Har man ikke en nøgle kan man ansøge om en nøgle ved at henvende sig til Danske Handicaporganisationer, Brugerservice, som administrerer Europanøglen i Danmark. 
+Toilettet er opvarmet og indeholder toilet- og brusefaciliteter. Det er indrettet med heldækkende loftslift til personflytning (man skal selv medbringe sejl, sele o.l.), højdejusterbar omklædnings/bruseleje og ligeledes højdejusterbar håndvask og toilet. Toilettet har egen indgang og er et unisex toilet. 
+Åbningstider: Døgnåbent. Helårsåbent.
+Fotos er leveret af https://godadgang.dk/faktaark/toilet-paa-vester-soegade-17372, hvor der også findes yderligere oplysninger.",København,FindToilet
+183,Amager Strandvej 11,København S,2300.0,55.666373,12.632197,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Amager Strand, Søstjernen
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+359,Absalonsgade 12,København V,1658.0,55.670445,12.554053,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Skydebanehaven
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+bemaerkning: Sommersæson (maj til september) mandag-fredag kl. 9-18 og om lørdagen 10-17. I vintersæsonen (oktober-april) mandag til fredag kl. 9-17.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+339,Amager Strand Promenaden 255,København S,2300.0,55.65453,12.64934,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Amager Strandpark, Strandpromenaden nord
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Højsæson: 1. maj til 30. sep. Kl 8.00 til 22.00 alle ugens dage. Fra 1. juni til 31 august kl. 8.00 til 24.00 fredag, lørdag og søndag. Lavsæson: 1. okt til 30. april. Kl. 8.00 til 18.00 alle dage. Her er kun handicaptoilettet åbent. Handicaptoilet er helårsåbent.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+182,Amager Strandvej 244,København S,2300.0,55.648955,12.638736,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Amager Strandvej, Kastrup Fort
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+62,Amagerbrogade 185,København S,2300.0,55.651841,12.612123,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Sundbyøster Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+198,Baldersgade 60,København N,2200.0,55.70131,12.548328,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Gade, Balders Plads
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+209,Bispebjerg Bakke 12,København NV,2400.0,55.709717,12.542855,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Lersøparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+384,Blågårds Plads 11,København N,2200.0,55.686436,12.556422,Handicap,1,Nej,Ved ikke,Ja,"Placering: Gade, Blågårds Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+298,Borgergade 1F,København K,1300.0,55.682099,12.583712,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Borgergade
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+345,Brønshøj Kirkevej 8,Brønshøj,2700.0,55.705752,12.498597,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Brønshøj Kirkegård https://www.kk.dk/artikel/br%C3%B8nsh%C3%B8j-kirkeg%C3%A5rd-en-landsbyki...
+Åbningstider:
+mandag: 7.00 - 22.00 / 7.00 - 19.00
+tirsdag: 7.00 - 22.00 / 7.00 - 19.00
+onsdag: 7.00 - 22.00 / 7.00 - 19.00
+torsdag: 7.00 - 22.00 / 7.00 - 19.00
+fredag: 7.00 - 22.00 / 7.00 - 19.00
+loerdag: 7.00 - 22.00 / 7.00 - 19.00
+soendag: 7.00 - 22.00 / 7.00 - 19.00
+doegnaabent: Nej
+bemaerkning: Vinterhalvåret (oktober-marts) 07:00-19:00 Sommerhalvåret (april-september) 07:00-22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+174,Christianshavns Voldgade 36,København K,1424.0,55.670008,12.59264,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Christianshavns Vold, Elefantens bastion
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+677,Christianshavns Voldgade 36,København K,1424.0,55.669983,12.592711,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Christianshavns Vold, Elefantens bastion
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+168,Damhusdæmningen 2a,Vanløse,2720.0,55.68157,12.473101,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Damhusdæmningen, v. kiosk
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+191,Edel Sauntes Allé 18,København Ø,2100.0,55.700706,12.565388,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Fælledparken, Det røde toilet
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Handicaptoilettet og pissoir er helårsåbent
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+193,Edel Sauntes Allé 25,København Ø,2100.0,55.704773,12.565444,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Fælledparken, dansepladsen
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+179,Ejderstedgade 3,København V,1761.0,55.667806,12.541118,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Enghaveparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+50,Elna Munchs Plads 2,Vanløse,2720.0,55.691461,12.480697,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Elna Munchs Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+45,Emdrupvej 185,København NV,2400.0,55.723012,12.529522,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Emdrup Torv
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+643,Engdals alle 20,Valby,2500.0,55.658138,12.478322,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Vigerslevparken Syd
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+180,Engdraget 24,Valby,2500.0,55.669723,12.480273,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Vigerslevparken Nord
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+68,Enghave Plads 13b,København V,1670.0,55.667137,12.545621,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Enghave plads
+Åbningstider:
+Ca. 9.00 til 22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+186,Englandsvej 59B,København S,2300.0,55.65065,12.602138,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Sundbyvesterparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+206,Engsvinget 46,København NV,2400.0,55.716732,12.514343,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Engsvinget
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+688,Formosavej 2,København S,2300.0,55.64952,12.627403,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Formosavej, trafiklegeplads
+Åbningstider:
+Mandag: Ca. 9.00 - 21.00
+Tirsdag: Ca. 9.00 - 21.00
+Onsdag: Ca. 9.00 - 21.00
+Torsdag: Ca. 9.00 - 21.00
+Fredag: Ca. 9.00 - 21.00
+Lørdag: Ca. 9.00 - 21.00
+Søndag: Ca. 9.00 - 21.00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+636,Frederik V's Vej 4,København Ø,2100.0,55.697267,12.569975,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Tårnlegepladsen, Fælledparken
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+bemaerkning: Toilettet er forbeholdt legepladsens gæster
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+347,Frederiksborgvej 123,København NV,2400.0,55.714253,12.531011,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bispebjerg Kirkegård https://www.kk.dk/artikel/bispebjerg-kirkeg%C3%A5rd-i-nordvest
+Åbningstider:
+mandag: 7.00 - 22.00 / 7.00 - 19.00
+tirsdag: 7.00 - 22.00 / 7.00 - 19.00
+onsdag: 7.00 - 22.00 / 7.00 - 19.00
+torsdag: 7.00 - 22.00 / 7.00 - 19.00
+fredag: 7.00 - 22.00 / 7.00 - 19.00
+loerdag: 7.00 - 22.00 / 7.00 - 19.00
+soendag: 7.00 - 22.00 / 7.00 - 19.00
+doegnaabent: Nej
+bemaerkning: Vinterhalvåret (oktober-marts) 07:00-19:00 Sommerhalvåret (april-september) 07:00-22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+684,Grøndals Parkvej 125,Vanløse,2720.0,55.681302,12.491398,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Grøndalsparken, Arnestedet legeplads
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+343,Gunløgsgade 26,København S,2300.0,55.664694,12.579486,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Gade, Gunløgsgade, legeplads
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+344,Gunnar Nu Hansens Plads 10,København Ø,2100.0,55.704867,12.570897,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Fælledparken, Trafiklegepladsen
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+bemaerkning: sommersæsonen (marts- oktober) hverdage kl. 9-17 og hver 3. lørdag kl. 10-17. I vintersæsonen (november-februar) hverdage 9-16 og en gang om måneden åbent lørdag 10-16.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+67,Halmtorvet 12A,København V,1700.0,55.670548,12.561251,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Halmtorvet
+Åbningstider: Ca. 9.00 til 22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+177,Hammelstrupvej 114,København SV,2450.0,55.640612,12.519723,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Valbyparken, ved Rosenhaven
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+178,Hammelstrupvej 98,København SV,2450.0,55.641763,12.520163,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Valbyparken, ved restaurant
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+275,Hans Tavsens Gade 20,København N,2200.0,55.688641,12.548019,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Hans Tavsens Park
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+338,Havkajakvej 14,København S,2300.0,55.648422,12.647289,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Amager Strandpark, Strandprominaden syd
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Højsæson: 1. maj til 30. sep. Kl 8.00 til 22.00 alle ugens dage. Fra 1. juni til 31 august kl. 8.00 til 24.00 fredag, lørdag og søndag. Lavsæson: 1. okt til 30. april. Kl. 8.00 til 18.00 alle dage. Her er kun handicaptoilettet åbent. Handicaptoilet er helårsåbent.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+47,Havnegade 20,København K,1058.0,55.676341,12.588465,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Havnegade
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+861,Hiort Lorentzens Gade 10,København N,2200.0,55.688284,12.542905,Handicap,1,Nej,Ved ikke,Ja,"Placering: Nuuks Plads
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+482,Hulgårds Plads 4,København NV,2400.0,55.705476,12.522551,Handicap,1,Nej,Ved ikke,Ja,"Placering: Gade, Hulgårds Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+46,Husum Torv 2,Brønshøj,2700.0,55.711708,12.471724,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Husum Torv
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+211,Hyrdevangen 1,København NV,2400.0,55.707311,12.510325,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Brønshøjparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+188,Islands Brygge 12,København S,2300.0,55.668399,12.578484,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Gade, Islands Brygge, havneparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+385,Islands Brygge 20B,København S,2300.0,55.665352,12.573933,Handicap,1,Nej,Ved ikke,Ja,"Placering: Gade, Islands Brygge
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+350,Kalvebod Brygge 3C,København V,1560.0,55.669141,12.57598,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Gade, Bølgen, Kalvebod Brygge
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+139,Kapelvej 2,København N,2200.0,55.689449,12.553019,Handicap,1,Nej,Ja,Ja,"Placering: Assistens Kirkegård vest https://www.kk.dk/artikel/assistens-kirkeg%C3%A5rd-p%C3%A5-n%C3%B8rrebro
+Åbningstider:
+mandag: 7.00 - 22.00 / 7.00 - 19.00
+tirsdag: 7.00 - 22.00 / 7.00 - 19.00
+onsdag: 7.00 - 22.00 / 7.00 - 19.00
+torsdag: 7.00 - 22.00 / 7.00 - 19.00
+fredag: 7.00 - 22.00 / 7.00 - 19.00
+loerdag: 7.00 - 22.00 / 7.00 - 19.00
+soendag: 7.00 - 22.00 / 7.00 - 19.00
+doegnaabent: Nej
+bemaerkning: Vinterhalvåret (oktober-marts) 07:00-19:00 Sommerhalvåret (april-september) 07:00-22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+346,Kastrupvej 53,København S,2300.0,55.656695,12.618216,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Sundby Kirkegård, i Kapel https://www.kk.dk/artikel/sundby-kirkeg%C3%A5rd-p%C3%A5-amager
+Åbningstider:
+mandag: 7.00 - 22.00 / 7.00 - 19.00
+tirsdag: 7.00 - 22.00 / 7.00 - 19.00
+onsdag: 7.00 - 22.00 / 7.00 - 19.00
+torsdag: 7.00 - 22.00 / 7.00 - 19.00
+fredag: 7.00 - 22.00 / 7.00 - 19.00
+loerdag: 7.00 - 22.00 / 7.00 - 19.00
+soendag: 7.00 - 22.00 / 7.00 - 19.00
+doegnaabent: Nej
+bemaerkning: Vinterhalvåret (oktober-marts) 07:00-19:00 Sommerhalvåret (april-september) 07:00-22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+187,Kastrupvej 74,København S,2300.0,55.653986,12.618588,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Filipsparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+66,Kejsergade 2,København K,1155.0,55.679984,12.575451,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Grå Brødre Torv
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+340,Kilometerbroen 3,København S,2300.0,55.658322,12.642967,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Amager Strandpark, Kilometerbroen
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Højsæson: 1. maj til 30. sep. Kl 8.00 til 22.00 alle ugens dage. Fra 1. juni til 31 august kl. 8.00 til 24.00 fredag, lørdag og søndag. Lavsæson: 1. okt til 30. april. Kl. 8.00 til 18.00 alle dage. Her er kun handicaptoilettet åbent. Handicaptoilet er helårsåbent.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+44,Krabbesholmvej 2,Brønshøj,2700.0,55.704191,12.498832,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Brønshøj Torv
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+140,Kultorvet 9B,København K,1175.0,55.682303,12.574019,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Kultorvet
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+746,Kulturhuset Islands Brygge 18,København S,2300.0,55.666837,12.576278,Handicap,1,Nej,Ved ikke,Ja,"Placering: Handicap toilettet tilgås via elevator.
+Åbningstider: https://kulturhusetislandsbrygge.kk.dk/",København,FindToilet
+169,Langelinie 1,København Ø,2100.0,55.694604,12.594692,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Langelinie, østlige ende af bro
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+329,Langelinie 25,København Ø,2100.0,55.690616,12.599197,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Langelinie, Hvidtfeldtmonumentet
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+42,Lyngbyvej 90,København Ø,2100.0,55.712948,12.560245,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Hans Knudsens Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+332,Matthæusgade 8,København V,1666.0,55.66996,12.551496,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Gade, Saxoparken
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+49,Melchiors Plads 8,København Ø,2100.0,55.70355,12.585572,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Melchiors Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+59,Mozarts Plads 1A,København SV,2450.0,55.64871,12.534678,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Mozarts Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+639,Møllegade 25c,København N,2200.0,55.692105,12.557286,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Byoasen
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæsonen (maj-oktober) mandag-fredag kl. 9.30-18 og søndag kl. 10-16. I vintersæsonen (november-februar) mandag -fredag 9.30-16 og 10-13 i weekenden. I mellemsæsonen (uge 10-17 + uge 40-43) mandag - fredag 9.30-16.30 og weekend 10-13.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+683,Nannasgade 6,København N,2200.0,55.699854,12.54919,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, BaNanna Park
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+12,Nyhavn 1F,København K,1051.0,55.680573,12.587758,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Underjordisk Nyhavn
+Dametoilet til højre og Herretoilet til venstre for Canal Tours
+Åbningstider:
+9.00-22.30 alle dage
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+357,Nørager Plads 23,Vanløse,2720.0,55.696272,12.475026,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Nørager Plads
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: mandag-fredag: kl. 9.30-13 og lørdage i maj, juni og september kl. 13-16.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+60,Nørre Allé 2,København N,2200.0,55.69137,12.56125,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Sankt Hans Torv
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+342,Nørre Farimagsgade 2,København K,1364.0,55.680491,12.564608,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Ørstedsparken
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Legeplads med pædagogisk personale og aktivitetshus. Åbningstider: : I sommersæsonen (maj-september) 9-17 på hverdage og lørdag 10-17. I vintersæsonen (oktober-april) åbent herdage kl. 9-16.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+171,Nørre Farimagsgade 2A,København K,1364.0,55.680387,12.56456,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Ørstedsparken, tæt på legeplads
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+212,Nørre Voldgade 15B,København K,1358.0,55.683049,12.571366,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Nørreport station
+Åbningstider:
+8.00-22.00 alle dage
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/
+6 unisex toiletter
+1 handicap toilet med egen indgang. Pr. 25.5.2022 nu også med personlift. Personalet yder ikke assistance.
+1 pissoir med egen indgang",København,FindToilet
+678,Parmagade 45,København S,2300.0,55.654049,12.618546,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Filipsparken (Elba), legeplads
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæson (maj til september) mandag-fredag kl. 9.30-18.00. I vintersæsonen (oktober-april) 9.30-16.30.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+354,Peder Lykkes Vej 71,København S,2300.0,55.652713,12.598081,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Remiseparken, Bondegårdslegepladsen
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæson maj-sep (uge 18-39) mandag-fredag kl. 9.30-17.00, lørdag-søndag kl. 9.30-16.00. Vintersæson okt-april (uge 40-17) mandag-fredag kl. 9.30-17.00, lørdag-søndag kl. 9.30-16.00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+195,Per Henrik Lings Allé 5,København Ø,2100.0,55.703159,12.570673,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Fælledparken ved kiosk
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+205,Pilesvinget 80,Brønshøj,2700.0,55.708825,12.4864,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Pilesvinget
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+196,Rymarksvej 75B,Hellerup,2900.0,55.72201,12.563557,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Ryvangens Naturpark
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+185,Rødegård 8A,København S,2300.0,55.661051,12.611136,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Rødegårdsparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+130,Rådhuspladsen 5-7,København V,1550.0,55.676169,12.568555,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Underjordisk Rådhuspladsen
+Åbningstider: 9-22:30 alle ugens dage.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/
+Der er 3 stk. kombinerede handicaptoilet/familierum samt i alt 12 toiletter. Pissoir er endnu ikke tilgængeligt.
+Toilettet tilgås ved ned-/opgang til Metrostationen under Rådhuspladsen ved Vester Voldgade.
+Der er separat adgang med elevator for kørestolsbrugere mv. og barnevogne. Elevatoren kan ikke bruges til metrostationen.",København,FindToilet
+686,Sandkaj 37,Nordhavn,2150.0,55.706277,12.597487,Handicap,1,Nej,Nej,Ja,"Placering: Sandkaj, flydende aktivitetshus https://www.tv2lorry.dk/kobenhavn/nu-far-nordhavn-et-flydende-aktivitetshus
+Åbningstider:
+Mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Lørdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Søndag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+190,Serridslevvej 35,København Ø,2100.0,55.706806,12.571253,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Fælledparken, Seridsslevvej nord
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+210,Solkrogen 8,Brønshøj,2700.0,55.703182,12.509605,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Solkrogen
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+331,Standpromenaden 30,København Ø,2100.0,55.719539,12.583029,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Svanemølle Strandpark
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Handicaptoilettet er åbent hele året. De andre toiletter er åbne fra 1. april til 30. september
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+199,Stefansgade 24,København N,2200.0,55.694865,12.542849,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Park, Nørrebroparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+173,Stockholmsgade 62,København Ø,2100.0,55.692469,12.584244,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Østre Anlæg
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+61,Sundbyvester Plads 2A,København K,2300.0,55.646622,12.613326,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Sundbyvester Plads
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+63,Sønder Boulevard 60B,København V,1720.0,55.666095,12.551496,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Sønder Boulevard
+Åbningstider: Ca. 9.00 til 22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+56,Toftegårds Plads 2F,Valby,2500.0,55.66184,12.517536,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Toftegårds plads
+Åbningstider:
+Ca. 9.00 til 22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+131,Torvegade 48,København K,1410.0,55.67198,12.5918,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Christianshavns Torv
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+51,Valby tingsted 1B,Valby,2500.0,55.666027,12.514116,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Valby tingsted
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+70,Ved Stranden 18A,København K,1061.0,55.677576,12.580907,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Ved Stranden
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+299,Vester Søgade 2,København V,1601.0,55.674807,12.558971,Handicap,1,Nej,Ved ikke,Ved ikke,"Placering: Planetariet
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+69,Ørestads Boulevard 66,København S,2300.0,55.633288,12.579978,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Ørestadsparken
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+341,Øresundsstien 5,København S,2300.0,55.663012,12.638636,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Amager Strandpark, Øresundsstien
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Højsæson: 1. maj til 30. sep. Kl 8.00 til 22.00 alle ugens dage. Fra 1. juni til 31 august kl. 8.00 til 24.00 fredag, lørdag og søndag. Lavsæson: 1. okt til 30. april. Kl. 8.00 til 18.00 alle dage. Her er kun handicaptoilettet åbent. Handicaptoilet er helårsåbent.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+640,Øselsgade 5,København S,2300.0,55.661005,12.600624,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Kornblomstparken
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Mandag-onsdag kl. 9.30-18. Torsdag 12-20. Fredag 12 -18 og lørdag fra kl 10-17.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+194,Øster Allé 1E,København Ø,2100.0,55.69995,12.573372,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Fælledparken, Sansehaven
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+386,Østerbrogade 244,København Ø,2100.0,55.714884,12.577939,Handicap,1,Nej,Ved ikke,Ja,"Placering: Gade, Sporsløjfen, v. Svanemølle st.
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+135,Østerbrogade 29B,København Ø,2100.0,55.699301,12.577521,Handicap,1,Nej,Ja,Ja,"Placering: Gade, Trianglen
+Åbningstider: 
+9.00-18.30 alle dage
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+184,Østrigsgade 67,København S,2300.0,55.661741,12.617156,Handicap,1,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Lergravsparken, ved metro
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+38,Blågårds Plads 5B,København N,2200.0,55.686248,12.557011,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Blågårds Plads
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+71,Istedgade 20,København V,1650.0,55.67169,12.560541,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Maria Kirkeplads
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+52,Korsgade 58B,København N,2200.0,55.686647,12.553934,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Korsgade 58
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+55,Nikolaj Plads 10b,København K,1067.0,55.67901,12.58187,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Nikolaj Plads
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+29,Nyhavn 28,København K,1051.0,55.679549,12.591002,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Nyhavn
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+7,Nyhavn 47C,København K,1051.0,55.679813,12.591223,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Nyhavn
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+58,Nytorv 29,København K,1450.0,55.67749,12.57266,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Nytorv
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+632,Nørre Voldgade 15B,København K,1358.0,55.683037,12.571291,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Nørreport station
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+633,Overgaden oven Vandet 64A,København K,1415.0,55.674969,12.595253,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Overgaden oven Vandet
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+54,Stockholmsgade 2,København Ø,2100.0,55.689418,12.575475,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Sølvtorvet
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+53,Toftegårds Plads 6F,Valby,2500.0,55.662306,12.517405,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Toftegårds Plads
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+35,Utterslev Torv 9,København NV,2400.0,55.710055,12.516928,Pissoir,0,Nej,Nej,Nej,"Placering: Gade, Utterslev Torv
+Åbningstider:
+helaarsaabent: Nej- Vinterlukket fra 1/10 til 31/3
+aabent_april_sept: x - lukkes når frosten kommer
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+337,Amager Strandvej 275,København S,2300.0,55.646201,12.64402,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Amager Strandvej, Femøren
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Højsæson: 1. maj til 30. sep. Kl 8.00 til 22.00 alle ugens dage. Fra 1. juni til 31 august kl. 8.00 til 24.00 fredag, lørdag og søndag. Lavsæson: 1. okt til 30. april. Kl. 8.00 til 18.00 alle dage.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+34,Amagertorv 1F,København K,1160.0,55.678826,12.579556,Unisex,0,Nej,Ja,Ja,"Placering: Gade, Underjordisk Amagertorv
+Åbningstider:
+9.00-22.30 alle dage
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/
+Dametoilet til højre og Herretoilet til venstre",København,FindToilet
+860,Ben Websters Vej 69,København SV,2450.0,55.646499,12.554031,Unisex,0,Nej,Ved ikke,Ja,"Placering: Koralbadet
+https://svoemkbh.kk.dk/sluseholmen
+Åbningstider:
+helaarsaabent: Nej
+Vinterlukket fra 1/10 til 31/3
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+634,Blegdamsvej 132a,København Ø,2100.0,55.698552,12.576545,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Blegdamsremisen
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæson maj-sep (uge 18-39) mandag-fredag kl. 9.00-16.30. Vintersæson oktober-april (uge 40-17) mandag-fredag kl. 9.00-17.00, lørdag-søndag kl. 10.00-16.00.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+635,Borgmestervangen 51,København N,2200.0,55.704799,12.541201,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Mimersparken
+Åbningstider:
+Mandag: Følger legepladsens åbningstider
+Tirsdag: Følger legepladsens åbningstider
+Onsdag: Følger legepladsens åbningstider
+Torsdag: Følger legepladsens åbningstider
+Fredag: Følger legepladsens åbningstider
+Lørdag: Når legepladsen er lukket da ca. ca. 9.00 - 21.00 (19.00 om vinteren)
+Søndag: Når legepladsen er lukket da ca. ca. 9.00 - 21.00 (19.00 om vinteren)
+Åbningstider legeplads sommer (uge 18-38): Mandag til fredag kl. 9 til 18. Lørdag og søndag kl. 10 til 17. Åbningstider legeplads vinter (uge 39-17): Mandag til fredag kl. 9 til 17. Lørdag kl 11 til16. Søndag lukket.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+349,Bredegrund 8,København S,2300.0,55.659015,12.61349,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Bredegrund
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæsonen (maj-oktober) mandag-fredag kl. 9-18 og søndag kl. 10-16. I vintersæsonen (november-februar) mandag -fredag 9-16. I mellemsæsonen (uge 10-17 + uge 43-45) mandag - fredag 9-17
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+5,Christiansborg Slotsplads 2,København K,1218.0,55.6766,12.5822,Unisex,0,Nej,Nej,Nej,"Placering: Christiansborg Slotsplads, Holmens Bro
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+201,Damhusdæmningen 14,Vanløse,2720.0,55.682449,12.468016,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: Park, Damhusdæmningen, Engen
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+641,Degnestavnen 20,København NV,2400.0,55.710617,12.52495,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Degnestavnen, ved legeplads
+https://bornibyen.dk/koebenhavn/places/1088-legepladsen-i-degnestavnen
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Følger legepladsens åbningstider
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+65,Dyrkøb 2,København K,1166.0,55.679306,12.573532,Unisex,0,Nej,Nej,Ja,"Placering: Vor frue plads
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+325,Edel Sauntes Allé 1,København Ø,2100.0,55.698973,12.562361,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: Park, Fælledparken, Bikuben
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+642,Edel Sauntes Allé 9,København Ø,2100.0,55.700375,12.56414,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Soppesøen
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Kun åbent når der er vand i soppesøen
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+326,Ejderstedgade 1,København V,1761.0,55.667912,12.541712,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Enghaveparken
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæson (maj til september) mandag-fredag kl. 9-18 og søndag 10-17. I mellemsæsonen (marts, april og oktober) mandag-fredag 9-17. I vintersæsonen (november-februar) mandag - fredag 9-16.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+31,Frederiksborggade 21,København K,1360.0,55.6843,12.5695,Unisex,0,Nej,Ja,Ja,"Placering: Gade, Underjordisk Israels Plads
+Åbningstider:
+8.30-22.00 alle dage
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+36,Gammel Torv 22f,København K,1457.0,55.678112,12.571727,Unisex,0,Nej,Nej,Ja,"Placering: Gammel Torv
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+637,Gunløgsgade 26,København S,2300.0,55.664607,12.579507,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Gunløgsgade
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Nej
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+687,Gustav Bangs Gade 21,København SV,2450.0,55.65118,12.536366,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Anker Jørgensens Plads
+Åbningstider:
+Mandag: Døgnåbent
+Tirsdag: Døgnåbent
+Onsdag: Døgnåbent
+Torsdag: Døgnåbent
+Fredag: Døgnåbent
+Lørdag: Døgnåbent
+Søndag: Døgnåbent
+Står indtil Mozarts Plads genåbner i 2024 (Vedtaget af TMU).
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+165,Halmtorvet 9C,København V,1700.0,55.670053,12.561735,Unisex,0,Nej,Nej,Ja,"Placering: Gade, Den brune kødby
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+333,Hammelstrupvej 41,København SV,2450.0,55.64471,12.519857,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Valbyparken, Naturlegepladsen
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+200,Hans Tavsens Gade 40,København N,2200.0,55.689757,12.545727,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Hans Tavsens Park vest
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Mandag-fredag: kl. 8.45-17 undtagen torsdag, hvor der er åbent til 19.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+274,Hans Tavsens Gade 40,København N,2200.0,55.688329,12.54978,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Hans Tavsens Park øst
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: sommersæsonen (maj-september) mandag-fredag: kl. 9-18 og lørdag: kl. 10-17. I vintersæsonen (oktober til april) 9-16.30 i hverdagene
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+348,Hillerødgade 23b,København N,2200.0,55.695527,12.536173,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Bispeengen
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæsonen (maj til september) hverdage 9-18 undtagen torsdag, hvor der er åbent til 20. Lørdage åbent 10-17. I juli er der åbent fra 9.30 til 17 på hverdage og lørdag 10-17. I vintersæsonen 9.30 til 17 undtagen mandag, hvor der er åbent til kl. 20.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+638,Hulgårds Plads 6,København NV,2400.0,55.704786,12.521864,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Hulgårds Plads
+Åbningstider:
+aabent_april_sept:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæsonen mandag-fredag kl. 9-18 og søndag kl. 10-17. I vintersæsonen (november-februar) mandag-fredag 9-16.30 og mellemsæsonen (marts, april og oktober) mandag til fredag 9-17.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+132,Islands Brygge 20A,København S,2300.0,55.665192,12.57425,Unisex,0,Nej,Nej,Ja,"Placering: Islands Brygge
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+213,Jernbanegade 10,København V,1608.0,55.675858,12.564604,Unisex,0,Nej,Nej,Nej,"Placering: Axeltorv ved Cirkusbygningen
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+202,Kagsvang 31,Brønshøj,2700.0,55.710409,12.458448,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Kagsmosen
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+207,Kobbelvænget 15B,Brønshøj,2700.0,55.716927,12.479076,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Bystævnet v. Vestvolden
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+330,Langeliniekaj 63,København Ø,2100.0,55.703656,12.600802,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Gade, Langeliniekaj, yderst på kajen
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+352,Lergravsvej 16,København S,2300.0,55.662526,12.618609,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Lergravsparken
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæson (maj til september) mandag-fredag kl. 9.30-18 undtagen om onsdagen, hvor der er åbent til 20 og søndag 10-17. I mellemsæsonen (marts, april og oktober) mandag-fredag 9.30-16. I vintersæsonen (november-februar) mandag - fredag 9.30-17.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+203,Moseskellet 47,København NV,2400.0,55.722051,12.522914,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Moseskellet
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+204,Mosesvinget 1,København NV,2400.0,55.712979,12.50484,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Mosesvinget
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+355,Nordrupvej 16,Brønshøj,2700.0,55.704234,12.47096,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Husumparken
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: sommersæsonen (maj-september) hverdage kl. 9.30-18.00 og søndag kl. 10-15 (undtagen juli). I vintersæsonen (november -februar) åbent 9.30-16 i hverdage. I mellemsæsonen(marts, april og oktober) åbent hverdage kl. 9.30-17.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+172,Nørre Farimagsgade 6,København K,1364.0,55.682474,12.566183,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Ørstedsparken, ved caféen
+Åbningstider:
+Åbent fra 1. april til 30. september
+10:00 - Cafeen lukker
+Toilettet følger caféens åbningstider. Cafeen lukker alt afhængig af vejret
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+175,Olfert fischers gade 40,København K,1311.0,55.687614,12.585553,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Gade, Nyboder, Gammel Vagt
+Åbningstider:
+Ca. 9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+353,Peder Lykkes Vej 73,København S,2300.0,55.652669,12.597272,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Remiseparken, Byggelegepladsen
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæson maj-okt (uge 18-42) mandag-onsdag og fredag kl. 9.30-18.00, torsdag kl. 9.30-20.00, lørdag kl. 10.00-16.00. Mellemsæson (uge 10-17 + uge 43-45) mandag-fredag kl. 9.30-17.00. Vintersæson nov-feb (uge 46-9) mandag-fredag kl. 10.00-16.30
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+208,Rødkildevej 15,København NV,2400.0,55.699655,12.51138,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Rødkildeparken
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+323,Serridslevvej 15,København Ø,2100.0,55.705954,12.572823,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: Park, Fælledparken, Seridsslevvej syd
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+358,Stefansgade 30,København N,2200.0,55.694184,12.541991,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Nørrebroparken
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæsonen (maj-september) hverdage 9-18 og lørdag 10-17. i skolernes sommerferie er der også åbent søndag kl 10-17. I vintersæsonen (oktober-april) åbent hverdage 9-16.30.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+214,Stengade 48,København N,2200.0,55.68727,12.554982,Unisex,0,Nej,Nej,Ja,"Placering: Gade, Folkets park
+Åbningstider:
+Helårsåbent: ja
+Døgnåbent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+176,Stockholmsgade 26,København Ø,2100.0,55.690613,12.579121,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Østre Anlæg, nær legeplads
+Åbningstider:
+Åbent fra 1. april til 30. september
+9.00 til 21:00 (19.00 om vinteren)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+39,Vesterbrogade 47,København V,1620.0,55.672196,12.555008,Unisex,0,Nej,Ja,Ja,"Placering: Gade, Underjordisk Vesterbro Torv
+Åbningstider:
+9.00-16.00 mandag-fredag, lukket i weekenden (kun åbent ved større arrangementer)
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/
+Underjordisk toilet - Dametoilet til højre og Herretoilet til venstre",København,FindToilet
+327,Vestre Kirkegårds Allé 15,København SV,2450.0,55.66201,12.530759,Unisex,0,Nej,Ved ikke,Ved ikke,"Placering: Vestre Kirkegård https://www.kk.dk/artikel/vestre-kirkeg%C3%A5rd-mellem-sydhavnen-valby-o...
+Åbningstider:
+mandag: 7.00 - 22.00 / 7.00 - 19.00
+tirsdag: 7.00 - 22.00 / 7.00 - 19.00
+onsdag: 7.00 - 22.00 / 7.00 - 19.00
+torsdag: 7.00 - 22.00 / 7.00 - 19.00
+fredag: 7.00 - 22.00 / 7.00 - 19.00
+loerdag: 7.00 - 22.00 / 7.00 - 19.00
+soendag: 7.00 - 22.00 / 7.00 - 19.00
+doegnaabent: Nej
+bemaerkning: Vinterhalvåret (oktober-marts) 07:00-19:00 Sommerhalvåret (april-september) 07:00-22:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+181,Vigerslevvej 346,Valby,2500.0,55.646122,12.495449,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Park, Vigerslevvej
+Åbningstider:
+Åbent fra 1. april til 30. september
+Ca. 9.00 til 21:00
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+356,Vognmandsmarken 69,København Ø,2100.0,55.714445,12.565102,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Kildevældsparken
+Åbningstider:
+mandag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+tirsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+onsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+torsdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+fredag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+loerdag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+soendag: Ca. 9.00 - 21.00 (19.00 om vinteren)
+doegnaabent: Nej
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+360,Wesselsgade 12,København N,2200.0,55.685969,12.559995,Unisex,0,Ved ikke,Ved ikke,Ved ikke,"Placering: Bemandet legeplads Wesselsgade
+Åbningstider:
+mandag: Følger legepladsens åbningstider
+tirsdag: Følger legepladsens åbningstider
+onsdag: Følger legepladsens åbningstider
+torsdag: Følger legepladsens åbningstider
+fredag: Følger legepladsens åbningstider
+loerdag: Følger legepladsens åbningstider
+soendag: Følger legepladsens åbningstider
+doegnaabent: Nej
+bemaerkning: Sommersæsonen (maj-september) mandag-fredag kl. 9.30-17.30 og søndag kl. 10-17. I vintersæsonen (oktober - april) åbent på hverdage fra kl. 9.30-17.
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+133,Ørestads Boulevard 39,København S,2300.0,55.638528,12.583093,Unisex,0,Nej,Nej,Nej,"Placering: Bella Center Station
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+37,Ålholm Plads 2,Valby,2500.0,55.672384,12.48911,Unisex,0,Nej,Nej,Nej,"Placering: Ålholm Plads
+Åbningstider:
+helaarsaabent: Ja
+doegnaabent: Ja
+Ændrede åbningstider Jul, Nytår, Corona m.m.: https://www.kk.dk/toiletter/",København,FindToilet
+1,Ved Hvidtfeldtmonumentet,København,,55.69034309,12.59931787,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Langelinie 25,København,OpenDataDK_TMF
+2,Ved Svend Vonveds Vej,København,,55.65125043,12.64058687,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amager Strandvej 219,København,OpenDataDK_TMF
+3,Kastrup Fort,København,,55.64888274,12.63884305,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amager Strandvej 244,København,OpenDataDK_TMF
+4,Amager Strandpark,København,,55.66195618,12.63244831,Toilet,0,Unknown,Unknown,Unknown,Amager Strandvej 55,København,OpenDataDK_TMF
+5,Amagertorv,København,,55.67881724,12.57935193,Toilet med personale,0,Unknown,Unknown,Unknown,Amagertorv 1F,København,OpenDataDK_TMF
+6,Balders Plads,København,,55.70130663,12.54836404,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Baldersgade 60,København,OpenDataDK_TMF
+7,Ørstedsparken,København,,55.6803745,12.56457404,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Nørre Farimagsgade 2A,København,OpenDataDK_TMF
+8,Blågårds Plads,København,,55.68625361,12.55699773,Pissoir,0,Unknown,Unknown,Unknown,Blågårds Plads 5B,København,OpenDataDK_TMF
+9,Borgergade,København,,55.68212314,12.58373004,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Borgergade 1F,København,OpenDataDK_TMF
+10,Vor Frue Plads,København,,55.6792527,12.57368016,Toilet,0,Unknown,Unknown,Unknown,Dyrkøb 2,København,OpenDataDK_TMF
+11,"Østre Anlæg, Huset",København,,55.69243468,12.58419923,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Stockholmsgade 62,København,OpenDataDK_TMF
+12,Emdrup Torv,København,,55.72301254,12.52948998,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Emdrupvej 185,København,OpenDataDK_TMF
+13,Enghave Plads,København,,55.66709368,12.54527523,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Enghave Plads 13B,København,OpenDataDK_TMF
+14,Ved Utterslev Friluftskreds,København,,55.71672555,12.51438562,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Engsvinget 46,København,OpenDataDK_TMF
+15,Israels Plads,København,,55.68433408,12.56954435,Toilet med personale,0,Unknown,Unknown,Unknown,Frederiksborggade 21,København,OpenDataDK_TMF
+16,"Fælledparken,  Kiosken",København,,55.70318146,12.57068815,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Per Henrik Lings Allé 5,København,OpenDataDK_TMF
+17,Halmtorvet,København,,55.67057461,12.56128892,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Halmtorvet 12A,København,OpenDataDK_TMF
+18,Havnegade,København,,55.67631318,12.5883914,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Havnegade 20,København,OpenDataDK_TMF
+19,"Fælledparken, Serridslevvej Syd",København,,55.70597554,12.57279594,Toilet,0,Unknown,Unknown,Unknown,Serridslevvej 15,København,OpenDataDK_TMF
+20,Islands Brygge ovf nr 37,København,,55.66535379,12.57392874,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Islands Brygge 20B,København,OpenDataDK_TMF
+21,Maria Kirkeplads,København,,55.67168964,12.56054136,Pissoir,0,Unknown,Unknown,Unknown,Istedgade 20,København,OpenDataDK_TMF
+22,Kagsmosen,København,,55.71012074,12.4581903,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kagsvang 31,København,OpenDataDK_TMF
+23,Kapel i Sundby Kirkegård,København,,55.65669457,12.6182165,Toilet,0,Unknown,Unknown,Unknown,Kastrupvej  53,København,OpenDataDK_TMF
+24,Kalvebod Bølge,København,,55.66783066,12.57339465,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kalvebod Brygge 7,København,OpenDataDK_TMF
+25,Tæt på Folkets Park,København,,55.68665143,12.55392936,Pissoir,0,Unknown,Unknown,Unknown,Korsgade  58B,København,OpenDataDK_TMF
+26,Yderst på kajen,København,,55.70345069,12.60073886,Toilet,0,Unknown,Unknown,Unknown,Langeliniekaj 61,København,OpenDataDK_TMF
+27,Hans Knudsens Plads,København,,55.71294502,12.5602285,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Lyngbyvej 90,København,OpenDataDK_TMF
+28,"Fælledparken, Serridslevvej Nord",København,,55.70680751,12.57125307,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Serridslevvej 35,København,OpenDataDK_TMF
+29,Melchiors Plads,København,,55.70356481,12.5855636,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Melchiors Plads 8,København,OpenDataDK_TMF
+30,"Moseskellet, Utterslev Mose",København,,55.72205527,12.52296405,Toilet,0,Unknown,Unknown,Unknown,Moseskellet 47,København,OpenDataDK_TMF
+31,Mosesvinget,København,,55.71299097,12.50480308,Toilet,0,Unknown,Unknown,Unknown,Mosesvinget 1,København,OpenDataDK_TMF
+32,Mozarts Plads metrotoilet,København,,55.64879805,12.53363249,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Mozarts Plads 2A,København,OpenDataDK_TMF
+33,Nikolaj Plads,København,,55.6790111,12.58182075,Pissoir,0,Unknown,Unknown,Unknown,Nikolaj Plads 10B,København,OpenDataDK_TMF
+34,Nyhavn,København,,55.68055117,12.58780986,Toilet med personale,0,Unknown,Unknown,Unknown,Nyhavn 1F,København,OpenDataDK_TMF
+35,Nyhavnsbroen - Nyhavn 28,København,,55.67955187,12.59100073,Toilet,0,Unknown,Unknown,Unknown,Nyhavn 28,København,OpenDataDK_TMF
+36,Havnebadet Sluseholmen,København,,55.64646158,12.5539796,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ben Websters Vej 69,København,OpenDataDK_TMF
+37,Nyhavnsbroen - Nyhavn 47C,København,,55.67980909,12.59121414,Toilet,0,Unknown,Unknown,Unknown,Nyhavn 47C,København,OpenDataDK_TMF
+38,V. Domhuset,København,,55.67756767,12.57267771,Pissoir,0,Unknown,Unknown,Unknown,Nytorv 29A,København,OpenDataDK_TMF
+39,Fillipsparken,København,,55.65398371,12.61855887,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kastrupvej 74,København,OpenDataDK_TMF
+40,"Fælledparken, Bikuben",København,,55.69900491,12.56237378,Toilet,0,Unknown,Unknown,Unknown,Edel Sauntes Allé 1,København,OpenDataDK_TMF
+41,Pilesvinget,København,,55.70883969,12.48643284,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Pilesvinget 80,København,OpenDataDK_TMF
+42,Nørrebroparken,København,,55.69499752,12.54283907,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Stefansgade 24,København,OpenDataDK_TMF
+43,Sundbyvester Plads,København,,55.64662185,12.61332563,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Sundbyvester Plads 2A,København,OpenDataDK_TMF
+44,"Fælledparken, Det røde toilet (som er hvidt)",København,,55.70070676,12.56538713,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Edel Sauntes Allé 18,København,OpenDataDK_TMF
+45,Sønder Boulevard,København,,55.66613717,12.55146009,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Sønder Boulevard 60B,København,OpenDataDK_TMF
+46,Toftegårds Plads,København,,55.66184412,12.51757985,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Toftegårds Plads 2F,København,OpenDataDK_TMF
+47,Toftegårds Plads,København,,55.66230564,12.51740475,Pissoir,0,Unknown,Unknown,Unknown,Toftegårds Plads 6F,København,OpenDataDK_TMF
+48,Trianglen,København,,55.69932314,12.57758463,Toilet med personale og handicapadgang,1,Unknown,Unknown,Unknown,Østerbrogade 29B,København,OpenDataDK_TMF
+49,Utterslev Torv,København,,55.71001927,12.51700676,Pissoir,0,Unknown,Unknown,Unknown,Utterslev Torv  9,København,OpenDataDK_TMF
+50,Valby Tingsted,København,,55.6661493,12.51429445,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Valby Tingsted 1B,København,OpenDataDK_TMF
+51,Ved Stranden,København,,55.67761346,12.58087568,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ved Stranden 18A,København,OpenDataDK_TMF
+52,Vesterbros Torv,København,,55.67222485,12.55531332,Toilet med personale,0,Unknown,Unknown,Unknown,Vesterbrogade 47F,København,OpenDataDK_TMF
+53,Nær Legepladsen i Vigerslevsparken,København,,55.64611553,12.49550011,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Vigerslevvej 346,København,OpenDataDK_TMF
+54,Metrostation Bella Center,København,,55.63852813,12.58309339,Toilet,0,Unknown,Unknown,Unknown,Ørestads Boulevard 39,København,OpenDataDK_TMF
+55,Folkets Park,København,,55.6872704,12.55498197,Toilet,0,Unknown,Unknown,Unknown,Stengade 48,København,OpenDataDK_TMF
+56,Ørestadsparken,København,,55.63326538,12.57991234,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ørestads Boulevard 66,København,OpenDataDK_TMF
+57,"Fælledparken, Sansehaven",København,,55.69992362,12.5734167,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Øster Allé 1E,København,OpenDataDK_TMF
+58,Ålholm Plads,København,,55.67237669,12.48904112,Toilet,0,Unknown,Unknown,Unknown,Ålholm Plads 2,København,OpenDataDK_TMF
+59,"Nyboder, Gammel Vagt ifm legeplads ubemandet",København,,55.68764203,12.58551705,Toilet,0,Unknown,Unknown,Unknown,Olfert Fischers Gade 40,København,OpenDataDK_TMF
+60,Kultorvet,København,,55.68230559,12.57390391,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kultorvet  9B,København,OpenDataDK_TMF
+61,Blågårds Plads,København,,55.6864188,12.55649498,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Blågårds Plads  11,København,OpenDataDK_TMF
+62,Sporsløjfen,København,,55.71485837,12.57790728,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Østerbrogade 244,København,OpenDataDK_TMF
+63,Islands Brygge ovf nr 37,København,,55.66522098,12.57430414,Toilet,0,Unknown,Unknown,Unknown,Islands Brygge 20A,København,OpenDataDK_TMF
+64,Overgaden Oven Vandet,København,,55.67510493,12.5954231,Pissoir,0,Unknown,Unknown,Unknown,Overgaden Oven Vandet 64A,København,OpenDataDK_TMF
+65,Ørstedsparken V. Caféen,København,,55.6824704,12.5661838,Toilet,0,Unknown,Unknown,Unknown,Nørre Farimagsgade  6,København,OpenDataDK_TMF
+66,"Gunløgsgade, Legeplads",København,,55.66464856,12.57934751,Toilet,0,Unknown,Unknown,Unknown,Gunløgsgade 26B,København,OpenDataDK_TMF
+67,Mimersparken,København,,55.70472649,12.54135874,Toilet,0,Unknown,Unknown,Unknown,Borgmestervangen 51,København,OpenDataDK_TMF
+68,"Kornblomsparken, legeplads",København,,55.66104719,12.600501,Toilet,0,Unknown,Unknown,Unknown,Øselsgade 5,København,OpenDataDK_TMF
+69,"Blegdamsremisen, indendørs legeplads",København,,55.69820526,12.57656143,Toilet,0,Unknown,Unknown,Unknown,Blegdamsvej 132A,København,OpenDataDK_TMF
+70,ByOasen legeplads,København,,55.6923105,12.55727088,Toilet,0,Unknown,Unknown,Unknown,Møllegade  25E,København,OpenDataDK_TMF
+71,"Hulgårds Plads , Legeplads",København,,55.70478572,12.52186387,Toilet,0,Unknown,Unknown,Unknown,Hulgårds Plads 6,København,OpenDataDK_TMF
+72,Degnestavnen,København,,55.7106102,12.52492849,Toilet,0,Unknown,Unknown,Unknown,Degnestavnen 20,København,OpenDataDK_TMF
+73,"Fælledparken, Soppesøen",København,,55.7003984,12.56413121,Toilet,0,Unknown,Unknown,Unknown,Edel Sauntes Allé 9,København,OpenDataDK_TMF
+74,"Fælledparken, Tårnlegepladsen",København,,55.69737028,12.56988529,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Frederik V's Vej 4,København,OpenDataDK_TMF
+75,Enghaveparken,København,,55.66781665,12.54110699,Toilet,0,Unknown,Unknown,Unknown,Ejderstedgade 3,København,OpenDataDK_TMF
+76,BaNanna Park,København,,55.69987935,12.54919751,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Nannasgade 6,København,OpenDataDK_TMF
+77,Legeplads Grøndal Parken ved Langdraget,København,,55.68129927,12.49137906,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Grøndals Parkvej 125,København,OpenDataDK_TMF
+78,"Formosavej 3, Trafiklegeplads",København,,55.6495484,12.62758471,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Formosavej 2,København,OpenDataDK_TMF
+79,Enghaveparken,København,,55.66679451,12.54057819,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ejderstedgade 5,København,OpenDataDK_TMF
+80,Det Flydende Aktivitetshus,København,,55.70627874,12.59742416,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Sandkaj 30,København,OpenDataDK_TMF
+81,Sydhavn Station,København,,55.65511288,12.53762621,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ernst Kapers Vej 1,København,OpenDataDK_TMF
+82,Den Brune Kødby,København,,55.67002809,12.56170397,Toilet,0,Unknown,Unknown,Unknown,Halmtorvet 9C,København,OpenDataDK_TMF
+83,Nuuks Plads,København,,55.68822879,12.54253292,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hiort Lorenzens Gade 10,København,OpenDataDK_TMF
+84,Kulværket,København,,55.65645078,12.49048019,Toilet,0,Unknown,Unknown,Unknown,Kulbanevej  16,København,OpenDataDK_TMF
+85,Saxoparken,København,,55.66998832,12.55152397,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Matthæusgade 8,København,OpenDataDK_TMF
+86,Mimers Plads,København,,55.70113752,12.53805584,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Mimers Plads 14,København,OpenDataDK_TMF
+87,nan,København,,55.69881165,12.54141286,Toilet,0,Unknown,Unknown,Unknown,Nørrebrogade 211,København,OpenDataDK_TMF
+88,Nørrebros runddel  Metrostation - Graverboligen Assistens Kirkegård,København,,55.69344672,12.54878622,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Nørrebrogade 67,København,OpenDataDK_TMF
+89,Valbyparken strand,København,,55.63766327,12.52262073,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Tudsemindevej 41,København,OpenDataDK_TMF
+90,Vibenhus Runddel,København,,55.70609209,12.56412393,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Øster Allé 62,København,OpenDataDK_TMF
+91,Vester Kirkegård V. Teater,København,,55.65448904,12.53328094,Toilet,0,Unknown,Unknown,Unknown,"Sydbanestien 24, Øster kapel (Teater)",København,OpenDataDK_TMF
+92,Byskoven/Madpakke Huset,København,,55.62289321,12.52507765,Toilet,0,Unknown,Unknown,Unknown,Selinevej 18,København,OpenDataDK_TMF
+93,Havneslusen Nord/Grejbanken,København,,55.64421295,12.5555054,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ved Slusen 8,København,OpenDataDK_TMF
+94,Østre Anlæg Legeplads,København,,55.69058368,12.5790624,Toilet,0,Unknown,Unknown,Unknown,Stockholmsgade 24,København,OpenDataDK_TMF
+95,Skjolds Plads,København,,55.70354432,12.54916227,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Skjolds Plads 1,København,OpenDataDK_TMF
+96,Vester Kirkegård - Nordre Kapel,København,,55.66121893,12.52850308,Toilet,0,Unknown,Unknown,Unknown,"Vestre Kirkegårds Allé 15B, Nordre Kapel",København,OpenDataDK_TMF
+97,Nørrebro Station,København,,55.70084092,12.53765301,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Frederikssundsvej 1A,København,OpenDataDK_TMF
+98,V. Domhuset,København,,55.67760807,12.57263192,Toilet,0,Unknown,Unknown,Unknown,Nytorv 29B,København,OpenDataDK_TMF
+99,Nørrebroparken,København,,55.69680484,12.54146042,Toilet,0,Unknown,Unknown,Unknown,Hillerødgade 13B,København,OpenDataDK_TMF
+100,"Fælledparken, ""Dansepladsen""",København,,55.70493103,12.56504649,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Edel Sauntes Allé 23,København,OpenDataDK_TMF
+101,Dronning Louises Bro,København,,55.68738443,12.56269888,Toilet,0,Unknown,Unknown,Unknown,Sortedam Dossering 2,København,OpenDataDK_TMF
+102,Hørdumsgade,København,,55.65423678,12.53798638,Toilet,0,Unknown,Unknown,Unknown,Enghavevej 198,København,OpenDataDK_TMF
+103,Marmorkirken,København,,55.68526722,12.58913654,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Frederiksgade 3,København,OpenDataDK_TMF
+104,Tåsinge Plads,København,,55.71015078,12.56806023,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Tåsingegade 43A,København,OpenDataDK_TMF
+105,Poul Henningsens Plads,København,,55.70960162,12.57624451,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Reersøgade 5,København,OpenDataDK_TMF
+106,Kulbaneparken,København,,55.65757001,12.49479112,Toilet,0,Unknown,Unknown,Unknown,Hornemanns Vænge 3,København,OpenDataDK_TMF
+107,Estlandsgade 2,København,,55.62268368,12.52881122,Toilet,0,Unknown,Unknown,Unknown,Estlandsgade 2,København,OpenDataDK_TMF
+108,Axeltorv ved Cirkusbygningen,København,,55.6758709,12.56458603,Toilet,0,Unknown,Unknown,Unknown,Jernbanegade 10,København,OpenDataDK_TMF
+109,Enghave Brygge metrotoilet,København,,55.6540678,12.5565455,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Bertha von Suttners Vej 3,København,OpenDataDK_TMF
+110,Handicaptoilet forbeholdt borgere med svære handicap,København,,55.67464029,12.55895323,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Vester Søgade 2A,København,OpenDataDK_TMF
+111,Kildevældsparken,København,,55.71446141,12.56507032,Toilet,0,Unknown,Unknown,Unknown,Vognmandsmarken 69,København,OpenDataDK_TMF
+112,København Syd metrotoilet,København,,55.65252905,12.51714201,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Carl Jacobsens Vej 17W,København,OpenDataDK_TMF
+113,;Hamborg Plads,København,,55.70777108,12.59643809,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hamborg plads 1; Hamborg Plads 1,København,OpenDataDK_TMF
+114,Nørreport v. Netto,København,,55.68391733,12.57294601,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Nørre Voldgade 23A,København,OpenDataDK_TMF
+115,Mobilt Toilet UBT Unisex,København,,55.66874862,12.60337987,Toilet,0,Unknown,Unknown,Unknown,Mobilt Toilet UBT Unisex,København,OpenDataDK_TMF
+116,Mobilt UBT toilet vogn Handicap,København,,55.66879856,12.60350539,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Mobilt UBT toilet vogn Handicap,København,OpenDataDK_TMF
+117,Dykkerstien 8,København,,55.65099396,12.64660865,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Dykkerstien 8,København,OpenDataDK_TMF
+118,Christianshavns Torv,København,,55.67199815,12.59179427,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Torvegade 48,København,OpenDataDK_TMF
+119,Lundehustorvet,København,,55.71823119,12.55630565,Toilet,0,Unknown,Unknown,Unknown,Strødamvej 2,København,OpenDataDK_TMF
+120,Kranparken,København,,55.71501758,12.59389765,Toilet,0,Unknown,Unknown,Unknown,Sundkrogsgade 23,København,OpenDataDK_TMF
+121,Sluseholmen Metro St. Unisex;Sluseholmen Metro St. Unisex Handicap,København,,55.64589747,12.54370887,Toilet,0,Unknown,Unknown,Unknown,"Sluseholmen Metro St. I,",København,OpenDataDK_TMF
+122,"Christiansborg Slotsplads, Holmensbro",København,,55.67662546,12.58210852,Toilet,0,Unknown,Unknown,Unknown,Christiansborg Slotsplads 2,København,OpenDataDK_TMF
+123,Gammel Torv,København,,55.67814484,12.57158316,Toilet,0,Unknown,Unknown,Unknown,Gammeltorv 22F,København,OpenDataDK_TMF
+124,Gråbrødre Torv,København,,55.67998703,12.57544099,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kejsergade 6,København,OpenDataDK_TMF
+125,Assistents Kirkegård,København,,55.689488,12.55308748,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kapelvej 2,København,OpenDataDK_TMF
+126,"Remiseparken, Bonderen & Byggeren",København,,55.65273499,12.59805091,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Peder Lykkes Vej 71,København,OpenDataDK_TMF
+127,Gunløgsgade,København,,55.66475883,12.57951558,Toilet,0,Unknown,Unknown,Unknown,Gunløgsgade 26A,København,OpenDataDK_TMF
+128,Sankt Hans Torv,København,,55.69137215,12.56128533,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Nørre Allé 2,København,OpenDataDK_TMF
+129,Ved Sølvtorvet,København,,55.68941765,12.57547549,Pissoir,0,Unknown,Unknown,Unknown,Stockholmsgade 2,København,OpenDataDK_TMF
+130,"Vester Søgade, o.f. Planetariet",København,,55.67480728,12.55897079,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Vester Søgade 2,København,OpenDataDK_TMF
+131,"Skydebanehaven, legeplads",København,,55.67045433,12.55406806,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Absalonsgade 12,København,OpenDataDK_TMF
+132,"Christianshavns Vold, Elefantens bastion",København,,55.67001925,12.59268569,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Christianshavns Voldgade 36B,København,OpenDataDK_TMF
+133,"Enghaveparken, legeplads",København,,55.66792248,12.5416987,Toilet,0,Unknown,Unknown,Unknown,Ejderstedgade 1,København,OpenDataDK_TMF
+134,"Ørstedsparken, legeplads",København,,55.68049439,12.56461965,Toilet,0,Unknown,Unknown,Unknown,Nørre Farimagsgade 2,København,OpenDataDK_TMF
+135,"Fælledparken, Trafiklegepladsen",København,,55.70491418,12.57072912,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Gunnar Nu Hansens Plads 10,København,OpenDataDK_TMF
+136,Rådhuspladsen 5-7,København,,55.67633802,12.56840793,Toilet med personale og handicapadgang,1,Unknown,Unknown,Unknown,Rådhuspladsen 5,København,OpenDataDK_TMF
+137,Nørreport station,København,,55.68304781,12.57130978,Toilet med personale og handicapadgang,1,Unknown,Unknown,Unknown,Nørre Voldgade 15A,København,OpenDataDK_TMF
+138,"Valbyparken, ved restaurant",København,,55.64184567,12.52023842,Toilet,0,Unknown,Unknown,Unknown,Hammelstrupvej 98,København,OpenDataDK_TMF
+139,"Islands Brygge, Havneparken",København,,55.66838884,12.57845101,Toilet,0,Unknown,Unknown,Unknown,Islands Brygge 12,København,OpenDataDK_TMF
+140,"Lergravsparken, ved Metro",København,,55.66174679,12.61716235,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Østrigsgade 67,København,OpenDataDK_TMF
+141,Englandsparken/Sundbyvesterparken,København,,55.65063981,12.60216108,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Englandsvej 59B,København,OpenDataDK_TMF
+142,Vigerslevparken Syd,København,,55.65812039,12.47840436,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Engdals allé 20,København,OpenDataDK_TMF
+143,"Valbyparken, Rosenhaven",København,,55.64061507,12.51971874,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hammelstrupvej 114,København,OpenDataDK_TMF
+144,Vigerslevparken Nord,København,,55.66973351,12.48029297,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Engdraget 24,København,OpenDataDK_TMF
+145,Rødegårdsparken,København,,55.6610463,12.61111642,Toilet,0,Unknown,Unknown,Unknown,Rødegård 8A,København,OpenDataDK_TMF
+146,"Vestre Kirkegårds Allé, Hovedindgang",København,,55.66175535,12.53113725,Toilet,0,Unknown,Unknown,Unknown,Vestre Kirkegårds Allé 15A,København,OpenDataDK_TMF
+147,Bredegrund legeplads,København,,55.65903255,12.61358748,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Bredegrund 8,København,OpenDataDK_TMF
+148,"Lergravsparken, Legeplads",København,,55.66252314,12.6185854,Toilet,0,Unknown,Unknown,Unknown,Lergravsvej 16,København,OpenDataDK_TMF
+149,Legepladsen Elba i Filipsparken,København,,55.65390059,12.61861682,Toilet,0,Unknown,Unknown,Unknown,Parmagade 45,København,OpenDataDK_TMF
+150,"Remiseparken, Byggeren",København,,55.65268313,12.59719912,Toilet,0,Unknown,Unknown,Unknown,Peder Lykkes Vej 73,København,OpenDataDK_TMF
+151,Brønshøj Kirkevej / Brønshøj kirkegård,København,,55.70552645,12.49912793,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Brønshøj Kirkevej 8,København,OpenDataDK_TMF
+152,Bystævnet/Vestvolden,København,,55.716912,12.47906878,Toilet,0,Unknown,Unknown,Unknown,Kobbelvænget 15B,København,OpenDataDK_TMF
+153,Strandstation 5,København,,55.64843899,12.64727322,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Havkajakvej 14,København,OpenDataDK_TMF
+154,Naturlegepladsen i Valbyparken,København,,55.64469043,12.519763,Toilet,0,Unknown,Unknown,Unknown,Hammelstrupvej  41,København,OpenDataDK_TMF
+155,Strandstation 3,København,,55.65457892,12.64934403,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amager Strand Promenaden 1,København,OpenDataDK_TMF
+156,Strandstation 1,København,,55.66302364,12.63862152,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Øresundsstien 5,København,OpenDataDK_TMF
+157,Strandstation 2,København,,55.65832876,12.64292879,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kilometerbroen 3,København,OpenDataDK_TMF
+158,Femøren,København,,55.64624042,12.64398399,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amager Strandvej 275,København,OpenDataDK_TMF
+159,"Christianshavns Vold, Elefantens bastion",København,,55.67000449,12.59264417,Toilet,0,Unknown,Unknown,Unknown,Christianshavns Voldgade 36A,København,OpenDataDK_TMF
+160,Bellahøjparken,København,,55.7031622,12.50971645,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Solkrogen 8,København,OpenDataDK_TMF
+161,Brønshøjparken,København,,55.70732013,12.51029671,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hyrdevangen 1,København,OpenDataDK_TMF
+162,"Damhusdæmningen, Engen",København,,55.68245004,12.46802338,Toilet,0,Unknown,Unknown,Unknown,Damhusdæmningen 14,København,OpenDataDK_TMF
+163,V. Kiosk,København,,55.68158006,12.47328565,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Damhusdæmningen 2A,København,OpenDataDK_TMF
+164,Hans Tavsens Park,København,,55.68863992,12.54799433,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hans Tavsens Gade 20,København,OpenDataDK_TMF
+165,Lersøparken,København,,55.70969548,12.54286566,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Bispebjerg Bakke 12,København,OpenDataDK_TMF
+166,Ryvangens Naturpark,København,,55.72197919,12.56359017,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Rymarksvej 75B,København,OpenDataDK_TMF
+167,Rødkildeparken,København,,55.69966119,12.51135642,Toilet,0,Unknown,Unknown,Unknown,Rødkildevej 15,København,OpenDataDK_TMF
+168,Svanemølle Strandpark,København,,55.71952858,12.58302537,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Strandpromenaden 30,København,OpenDataDK_TMF
+169,"Nørager Plads, legeplads",København,,55.69624698,12.47501048,Toilet,0,Unknown,Unknown,Unknown,Nørager Plads 23,København,OpenDataDK_TMF
+170,Bispebjerg Kirkegård,København,,55.71424752,12.53102504,Toilet,0,Unknown,Unknown,Unknown,Frederiksborgvej 123,København,OpenDataDK_TMF
+171,Brønshøj Torv,København,,55.70418954,12.49883117,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Krabbesholmvej 2,København,OpenDataDK_TMF
+172,Husum Torv,København,,55.71172318,12.47170694,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Husum Torv 2,København,OpenDataDK_TMF
+173,Bispeengen,København,,55.69552717,12.53617345,Toilet,0,Unknown,Unknown,Unknown,Hillerødgade  23B,København,OpenDataDK_TMF
+174,Husumparken,København,,55.70423756,12.47098843,Toilet,0,Unknown,Unknown,Unknown,Nordrupvej  16,København,OpenDataDK_TMF
+175,HTØ ved Blågårdsskolen,København,,55.68832855,12.54978015,Toilet,0,Unknown,Unknown,Unknown,Hans Tavsens Gade 10,København,OpenDataDK_TMF
+176,Kildevældsparken,København,,55.71457097,12.56502005,Toilet,0,Unknown,Unknown,Unknown,Vognmandsmarken 69,København,OpenDataDK_TMF
+177,Ved østlige ende af bro,København,,55.69456734,12.59478288,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Langelinie 1,København,OpenDataDK_TMF
+178,"Nørrebroparken, legeplads",København,,55.69413971,12.5420197,Toilet,0,Unknown,Unknown,Unknown,Stefansgade  30,København,OpenDataDK_TMF
+179,Legepladsen Wesselsgade,København,,55.68596884,12.559995,Toilet,0,Unknown,Unknown,Unknown,Wesselsgade 12,København,OpenDataDK_TMF
+180,Hulgårds Plads,København,,55.70548742,12.52257733,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hulgårds Plads 4,København,OpenDataDK_TMF
+181,Sundbyøster Plads,København,,55.65183174,12.61212648,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amagerbrogade 185,København,OpenDataDK_TMF
+182,"Søstjernen/Søanemonestien, Hundestrandens toilet",København,,55.66640455,12.63217029,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amager Strandvej 11,København,OpenDataDK_TMF
+183,Ved Italiensvej,København,,55.65762885,12.63657218,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Amager Strandvej 125,København,OpenDataDK_TMF
+1,Center for Afklaring og Beskæftigelse (CAB),København,,55.65365449,12.53429613,Toilet,0,Unknown,Unknown,Unknown,Sydbanestien 6,København,OpenDataDK_Other
+2,Vesterbro Svømmehal,København,,55.66456224,12.53875734,Toilet,0,Unknown,Unknown,Unknown,Angelgade 4,København,OpenDataDK_Other
+3,Valby Bibliotek,København,,55.66534274,12.51310704,Toilet,0,Unknown,Unknown,Unknown,Annexstræde 2,København,OpenDataDK_Other
+4,Ørestad Bibliotek,København,,55.63128648,12.58096424,Toilet,0,Unknown,Unknown,Unknown,Arne Jacobsens Allé 19,København,OpenDataDK_Other
+5,Center for Arbejdsfastholdelse (JKA),København,,55.69956521,12.54545631,Toilet,0,Unknown,Unknown,Unknown,Baldersgade 24,København,OpenDataDK_Other
+6,Bellahøj Hallerne,København,,55.70604113,12.51431452,Toilet,0,Unknown,Unknown,Unknown,Bellahøjvej 1,København,OpenDataDK_Other
+7,Bellahøj Svømmestadion,København,,55.70604113,12.51431452,Toilet,0,Unknown,Unknown,Unknown,Bellahøjvej 1-3,København,OpenDataDK_Other
+8,Thorvaldsens Museum,København,,55.67653283,12.57828311,Toilet,0,Unknown,Unknown,Unknown,Bertel Thorvaldsens Plads 2,København,OpenDataDK_Other
+9,Nørrebro Bibliotek,København,,55.69901234,12.54364161,Toilet,0,Unknown,Unknown,Unknown,Bragesgade 8B,København,OpenDataDK_Other
+10,Emdrup Bad,København,,55.71834193,12.547187,Toilet,0,Unknown,Unknown,Unknown,Bredelandsvej 20,København,OpenDataDK_Other
+11,Christianshavns Bibliotek,København,,55.67137954,12.59076343,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Dronningensgade 43,København,OpenDataDK_Other
+12,Bavnehøj idrætsanlæg,København,,55.65968566,12.53860569,Toilet,0,Unknown,Unknown,Unknown,Enghavevej 90,København,OpenDataDK_Other
+13,Sundby Idrætspark,København,,55.65022998,12.59995555,Toilet,0,Unknown,Unknown,Unknown,Englandsvej 61,København,OpenDataDK_Other
+14,Frankrigsgade Svømmehal,København,,55.6628988,12.60979449,Toilet,0,Unknown,Unknown,Unknown,Frankrigsgade 35,København,OpenDataDK_Other
+15,"Kulturstationen Vanløse, Kulturhus (1.sal)",København,,55.68706828,12.49106584,Toilet,0,Unknown,Unknown,Unknown,Frode Jakobsens Plads 4,København,OpenDataDK_Other
+16,Center for Afklaring og Beskæftigelse (CAB),København,,55.65419193,12.53978896,Toilet,0,Unknown,Unknown,Unknown,Gamle Vasbygade 49,København,OpenDataDK_Other
+17,Genforeningspladsen,København,,55.69997705,12.51841046,Toilet,0,Unknown,Unknown,Unknown,Genforeningspladsen 54,København,OpenDataDK_Other
+18,"Voksen- & Hjemløsenheden/Fælles Modtagelse: Opgang 2, stuen",København,,55.68642728,12.55265248,Toilet,0,Unknown,Unknown,Unknown,"Griffenfeldsgade 44,",København,OpenDataDK_Other
+19,International house (JKI),København,,55.6797482,12.56278181,Toilet,0,Unknown,Unknown,Unknown,Gyldenløvesgade 11,København,OpenDataDK_Other
+20,Sundhedshus Amager,København,,55.65472832,12.60917294,Toilet,0,Unknown,Unknown,Unknown,Hans Bogbinders Allé 3,København,OpenDataDK_Other
+21,"Center for Beskæftigelse, Sprog og Integration (CBSI)",København,,55.70068407,12.53377096,Toilet,0,Unknown,Unknown,Unknown,Hejrevej 10,København,OpenDataDK_Other
+22,Grøndal MultiCenter,København,,55.69983428,12.51535242,Toilet,0,Unknown,Unknown,Unknown,Hvidkildevej 64,København,OpenDataDK_Other
+23,Behandlingsenhed Indre (BEI),København,,55.69185278,12.54338752,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Hørsholmsgade 20A,København,OpenDataDK_Other
+24,Sundhedshus Vanløse/Brønshøj/Husum,København,,55.68638473,12.48907282,Toilet,0,Unknown,Unknown,Unknown,Indertoften 10,København,OpenDataDK_Other
+25,Kulturhuset Islands Brygge,København,,55.66683683,12.57627835,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Islands Brygge 18,København,OpenDataDK_Other
+26,Kultur Østerbro,København,,55.70916604,12.57649459,Toilet,0,Unknown,Unknown,Unknown,Jagtvej 227,København,OpenDataDK_Other
+27,Valby Vandkulturhus,København,,55.64897808,12.51527553,Toilet,0,Unknown,Unknown,Unknown,Julius Andersens Vej 1A,København,OpenDataDK_Other
+28,Valbyhallen,København,,55.64938138,12.5165097,Toilet,0,Unknown,Unknown,Unknown,Julius Andersens Vej 3,København,OpenDataDK_Other
+29,Vigerslev Bibliotek,København,,55.64923082,12.50331336,Toilet,0,Unknown,Unknown,Unknown,Kirsebærhaven 23,København,OpenDataDK_Other
+30,Vanløse Idrætspark,København,,55.6863876,12.47696332,Toilet,0,Unknown,Unknown,Unknown,Klitmøllervej 20,København,OpenDataDK_Other
+31,Kalvebod Bølge,København,,55.6678304,12.57339478,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Kalvebod Brygge 7,København,OpenDataDK_Other
+32,Kløvermarkens Idrætsanlæg,København,,55.67227129,12.60832749,Toilet,0,Unknown,Unknown,Unknown,Kløvermarksvej 50,København,OpenDataDK_Other
+33,Vesterbro Bibliotek,København,,55.66782679,12.5437152,Toilet,0,Unknown,Unknown,Unknown,Lyrskovgade 4,København,OpenDataDK_Other
+34,Borgerservice Bispebjerg,København,,55.70113419,12.52939873,Toilet,0,Unknown,Unknown,Unknown,Lærkevej 18,København,OpenDataDK_Other
+35,Vanløse Hallerne,København,,55.68582133,12.48119104,Toilet,0,Unknown,Unknown,Unknown,Lønstrupvej 5,København,OpenDataDK_Other
+36,Modtagelsen,København,,55.66979738,12.55238215,Toilet,0,Unknown,Unknown,Unknown,Matthæusgade 1,København,OpenDataDK_Other
+37,Modtagelsen,København,,55.66979738,12.55238215,Toilet,0,Unknown,Unknown,Unknown,Matthæusgade 1,København,OpenDataDK_Other
+38,Sundhedshus Nørrebro/Bispebjerg,København,,55.69903641,12.54822683,Toilet,0,Unknown,Unknown,Unknown,Mimersgade 41,København,OpenDataDK_Other
+39,Nikolaj Kunsthal,København,,55.67879093,12.58147442,Toilet,0,Unknown,Unknown,Unknown,Nikolaj Plads 10,København,OpenDataDK_Other
+40,Islands Brygges Bibliotek,København,,55.66672679,12.57877965,Toilet,0,Unknown,Unknown,Unknown,Njalsgade 13,København,OpenDataDK_Other
+41,Havnebadet Sluseholmen,København,,55.64646158,12.5539796,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Ben Websters Vej 69; Ben Websters Vej 69 ,København,OpenDataDK_Other
+42,Borgerservice Indre By,København,,55.68016627,12.5619013,Toilet,0,Unknown,Unknown,Unknown,Nyropsgade 1,København,OpenDataDK_Other
+43,Arbejdsmarkedscenteret (AMC),København,,55.67665698,12.56109908,Toilet,0,Unknown,Unknown,Unknown,Nyropsgade 41A,København,OpenDataDK_Other
+44,Emdrup Idrætspark,København,,55.7257427,12.53373122,Toilet,0,Unknown,Unknown,Unknown,Nøkkerosevej 23,København,OpenDataDK_Other
+45,Nørrebrohallen,København,,55.69954994,12.54299367,Toilet,0,Unknown,Unknown,Unknown,Nørrebrogade 208,København,OpenDataDK_Other
+46,Sundbyøsterhal # 2,København,,55.65242336,12.61276752,Toilet,0,Unknown,Unknown,Unknown,Parmagade 4,København,OpenDataDK_Other
+47,Sundbyøsterhal,København,,55.65217223,12.61325788,Toilet,0,Unknown,Unknown,Unknown,Parmagade 8,København,OpenDataDK_Other
+48,Solvang Bibliotek,København,,55.64872228,12.59548406,Toilet,0,Unknown,Unknown,Unknown,Remisevej 14,København,OpenDataDK_Other
+49,Udliciteret,København,,55.7188182,12.49232561,Toilet,0,Unknown,Unknown,Unknown,Ruten 2,København,OpenDataDK_Other
+50,"Huset-KBH, stue-etagen",København,,55.67641127,12.57472842,Toilet,0,Unknown,Unknown,Unknown,Rådhusstræde 13,København,OpenDataDK_Other
+51,Hillerødgade Bad og Hal,København,,55.69670977,12.53957102,Toilet,0,Unknown,Unknown,Unknown,Sandbjerggade 35 ,København,OpenDataDK_Other
+52,Ungecenteret (JKU),København,,55.66759785,12.55604134,Toilet,0,Unknown,Unknown,Unknown,Skelbækgade 4,København,OpenDataDK_Other
+53,Sundby Bad,København,,55.64645048,12.6019089,Toilet,0,Unknown,Unknown,Unknown,Sundbyvestervej 50,København,OpenDataDK_Other
+54,Arbejdsmarkedscenteret (AMC),København,,55.66086612,12.59616671,Toilet,0,Unknown,Unknown,Unknown,Sundholmsvej 22,København,OpenDataDK_Other
+55,VE BBHV,København,,55.70010427,12.53492642,Toilet,0,Unknown,Unknown,Unknown,Svanevej 12,København,OpenDataDK_Other
+56,Center for Kompetence og Beskæftigelse (CKB),København,,55.70759281,12.55874917,Toilet,0,Unknown,Unknown,Unknown,Teglværksgade 31,København,OpenDataDK_Other
+57,Borgercenter Handicap,København,,55.70608448,12.52684609,Toilet,0,Unknown,Unknown,Unknown,Thoravej 29,København,OpenDataDK_Other
+58,Sydhavnens bibliotek,København,,55.64692802,12.5296638,Toilet,0,Unknown,Unknown,Unknown,Wagnersvej 19,København,OpenDataDK_Other
+59,Valby Kulturhus,København,,55.66096652,12.51843103,Toilet,0,Unknown,Unknown,Unknown,Valgårdsvej 8,København,OpenDataDK_Other
+60,Osramhuset,København,,55.70296754,12.54952084,Toilet,0,Unknown,Unknown,Unknown,Valhalsgade 4,København,OpenDataDK_Other
+61,Sundhedshus Vesterbro/Valby/Kgs. Enghave,København,,55.67069171,12.54277005,Toilet,0,Unknown,Unknown,Unknown,Vesterbrogade 121,København,OpenDataDK_Other
+62,Københavns Museum,København,,55.6724524,12.55304193,Toilet,0,Unknown,Unknown,Unknown,Vesterbrogade 59,København,OpenDataDK_Other
+63,Helgoland Badeanstalt,København,,55.66369415,12.64003331,Toilet,0,Unknown,Unknown,Unknown,Øresundsstien 11,København,OpenDataDK_Other
+64,Svanemøllehallen,København,,55.71422674,12.57871948,Toilet,0,Unknown,Unknown,Unknown,Østerbrogade 240,København,OpenDataDK_Other
+65,Østerbrohuset,København,,55.70749322,12.58791133,Toilet,0,Unknown,Unknown,Unknown,Århusgade 103,København,OpenDataDK_Other
+66,Degnestavnen,København,,55.7106102,12.52492849,Toilet,0,Unknown,Unknown,Unknown,Degnestavnen 20,København,OpenDataDK_Other
+67,Det Flydende Aktivitetshus,København,,55.70627874,12.59742416,Toilet med handicapadgang,1,Unknown,Unknown,Unknown,Sandkaj 30,København,OpenDataDK_Other
+68,Københavns Stadsarkiv,København,,55.67562753,12.56957767,Toilet,0,Unknown,Unknown,Unknown,Rådhuspladsen 1,København,OpenDataDK_Other
+69,"Kulturstationen Vanløse, bibliotek",København,,55.68652214,12.49130888,Toilet,0,Unknown,Unknown,Unknown,Jernbane Allé 38,København,OpenDataDK_Other
+70,Kultur Østerbro  (Østerbro bibliotek),København,,55.69457327,12.58174536,Toilet,0,Unknown,Unknown,Unknown,Dag Hammarskjolds Allé 19,København,OpenDataDK_Other
+71,Øbro-Hallen,København,,55.70475633,12.57629293,Toilet,0,Unknown,Unknown,Unknown,Gunnar Nu Hansens Plads 3,København,OpenDataDK_Other
+72,VerdensKulturCentret,København,,55.69153163,12.56056438,Toilet,0,Unknown,Unknown,Unknown,Nørre Allé 7,København,OpenDataDK_Other

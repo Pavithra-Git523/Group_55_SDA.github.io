@@ -1,0 +1,51 @@
+"nid","Street","Postalcode","City","Latitude","Longitude","type","Betaling","Bemanding","Kanylebeholder","Puslebord","Vandhane","Body","Term","Billeder"
+"762","Bellevue Strand - Midt, Strandvejen 340","2930","Klampenborg","55.778203","12.591570","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I bygning syd for Strandvejen 340
+Åbningstider: 7-21","Gentofte","sites/default/files/images/1/2020/12/gentofte-strandvejen340.jpg"
+"777","Byens Hus, Hellerupvej 24","2900","Hellerup","55.732344","12.570634","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I bygning (ved hovedindgang i nr. 24)
+Åbningstider: 7-22 (man-fre)","Gentofte","sites/default/files/images/1/2021/01/gentofte-hellerupvej24.jpg"
+"761","Charlottenlund Fort - Midt, Strandvejen 144","2920","Charlottenlund","55.746532","12.588719","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I bygning øst for vandgrav
+Åbningstider: 7-21 Sommersæson: juni, juli og august","Gentofte","sites/default/files/images/1/2020/12/gentofte-strandvejen144-3.jpg"
+"767","Charlottenlund Fort - Syd, Strandvejen 144","2920","Charlottenlund","55.743982","12.586283","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I bygning øst for Strandvejen 144
+Åbningstider: 7-21 Hele året","Gentofte","sites/default/files/images/1/2021/01/gentofte-strandvejen144-2.jpg"
+"772","Dyssegård Bibliotek, Dyssegårdsvej 24","2870","Dyssegård","55.732253","12.538861","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I biblioteksbygning
+Åbningstider: 6-24","Gentofte","sites/default/files/images/1/2021/01/gentofte-dyssegaardsvej24.jpg"
+"778","Gentofte Hovedbibliotek, Ahlmanns Allé 6","2900","Hellerup","55.737691","12.573543","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I biblioteksbygning
+Åbningstider: 9-20 (man-fre) og 10-16 (lør-søn)","Gentofte","sites/default/files/images/1/2021/01/gentofte-ahlmannsalle6.jpg"
+"765","Gentofte Kirkegård, Gentoftegade 21","2820","Gentofte","55.749728","12.542079","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I bygning sydøst for kirke
+Åbningstider: Hele døgnet","Gentofte","sites/default/files/images/1/2020/12/gentofte-gentoftegade21_1.jpg"
+"755","Gentofte Sø, Fiskebakken 7","2820","Gentofte","55.745928","12.538560","Handicap","Nej","Nej","Ja","Nej","Ja","Placering: I bygning øst for søbred
+Åbningstider: 7-22","Gentofte","sites/default/files/images/1/2020/12/gentofte-fiskebakken7.jpg"
+"766","Hellerup Kirkegård, C.V.E. Knuths Vej 5","2900","Hellerup","55.731488","12.559536","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I sydlig del af tidligere kapel
+Åbningstider: Hele døgnet","Gentofte","sites/default/files/images/1/2021/01/gentofte-cveknuthsvej5.jpg"
+"774","Jægersborg Bibliotek, Smakkegårdsvej 112","2820","Gentofte","55.761573","12.526808","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I biblioteksbygning
+Åbningstider: 6-24","Gentofte","sites/default/files/images/1/2021/01/gentofte-smakkegaardsvej112.jpg"
+"775","Ordrup Bibliotek, Ejgårdsvej 11","2920","Charlottenlund","55.758566","12.573671","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I biblioteksbygning
+Åbningstider: 6-24","Gentofte","sites/default/files/images/1/2021/01/gentofte-ejgaardsvej11.jpg"
+"764","Ordrup Kirkegård, Ellensvej 8","2920","Charlottenlund","55.765169","12.576782","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I nordvestlig del af tidligere kapel
+Åbningstider: 7-17","Gentofte","sites/default/files/images/1/2020/12/gentofte-ellenvej8.jpg"
+"768","Skovshoved Havn - Nord, Skovshoved Havn 4","2920","Charlottenlund","55.763859","12.599825","Handicap","Nej","Nej","Nej","Nej","Ja","Placering: I bygning nord for Skovshoved Havn 26A
+Åbningstider: Hele døgnet","Gentofte","sites/default/files/images/1/2021/01/gentofte-skovshovedhavn4-2.jpg"
+"760","Skovshoved Havn - Syd, Skovshoved Havn 4","2920","Charlottenlund","55.759589","12.599778","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I bygning øst for Skovshoved Havn 10A
+Åbningstider: Hele døgnet","Gentofte","sites/default/files/images/1/2020/12/gentofte-skovshovedhavn4.jpg"
+"758","Teglgårsparken, Melchiorsvej 13","2920","Charlottenlund","55.760717","12.591034","Handicap","Nej","Nej","Ja","Nej","Ja","Placering: I bygning vest for legeplads
+Åbningstider: 7-22","Gentofte","sites/default/files/images/1/2020/12/gentofte-melchiorsvej13.jpg"
+"776","Vangede Bibliotek, Vangede Bygade 45","2820","Gentofte","55.751076","12.518486","Handicap","Nej","Nej","Nej","Ja","Ja","Placering: I biblioteksbygning
+Åbningstider: 6-24","Gentofte","sites/default/files/images/1/2021/01/gentofte-vangedebygade45.jpg"
+"770","Bellevue Strand - Nord, Strandvejen 340","2930","Klampenborg","55.780054","12.592594","Unisex","Nej","Nej","Nej","Nej","Ja","Placering: I bygning Bellevue Strand 14
+Åbningstider: 7-21","Gentofte","sites/default/files/images/1/2021/01/gentofte-strandvejen3402.jpg"
+"763","Bellevue Strand - Syd, Strandvejen 340","2930","Klampenborg","55.776379","12.591653","Unisex","Nej","Nej","Nej","Nej","Ja","Placering: I bygning Strandvejen 338A
+Åbningstider: 7-21","Gentofte","sites/default/files/images/1/2020/12/gentofte-strandvejen338a.jpg"
+"754","Femvejen, Femvejen 1","2920","Charlottenlund","55.757935","12.557787","Unisex","Nej","Nej","Ja","Nej","Ja","Placering: I bygning sydvest for rundkørsel
+Åbningstider: 7-22","Gentofte","sites/default/files/images/1/2020/12/gentofte-femvejen1.jpg"
+"773","Gentoftegade Bibliotek, Gentoftegade 45","2820","Gentofte","55.746575","12.541293","Unisex","Nej","Nej","Nej","Ja","Ja","Placering: I biblioteksbygning
+Åbningstider: 6-24","Gentofte","sites/default/files/images/1/2021/01/gentofte-gentoftegade45.jpg"
+"756","Hellerup Havn, Strandparksvej 38","2900","Hellerup","55.732703","12.579768","Unisex","Nej","Nej","Ja","Nej","Ja","Placering: I bygning Onsgårdsvej 18A
+Åbningstider: 7-22","Gentofte","sites/default/files/images/1/2020/12/gentofte-strandparksvej38.jpg"
+"771","Mariebjerg Kirkegård, Mariebjergvej 1","2820","Gentofte","55.759413","12.515254","Unisex","Nej","Nej","Nej","Nej","Ja","Placering: I bygning øst for kirkegårdskontor
+Åbningstider: Hele døgnet","Gentofte","sites/default/files/images/1/2021/01/gentofte-mariebjergvej1.jpg"
+"769","Skovshoved Havn - Midt, Skovshoved Havn 4","2920","Charlottenlund","55.762048","12.599639","Unisex","Nej","Nej","Nej","Nej","Ja","Placering: I bygning Skovshoved Havn 1B
+Åbningstider: Hele døgnet","Gentofte","sites/default/files/images/1/2021/01/gentofte-skovshovedhavn4-3.jpg"
+"757","Vangede bydelscenter, Vangede Bygade 38","2820","Gentofte","55.751595","12.518376","Unisex","Nej","Nej","Ja","Nej","Ja","Placering: I bygning nordøst på parkeringsplads
+Åbningstider: 7-22","Gentofte","sites/default/files/images/1/2020/12/gentofte-vangedebygade38.jpg"
+"759","Øregårdsparken, Tranegårdsvej 1","2900","Hellerup","55.739702","12.576100","Unisex","Nej","Nej","Ja","Nej","Ja","Placering: I bygning nord for legeplads
+Åbningstider: 7-22","Gentofte","sites/default/files/images/1/2020/12/gentofte-tranegaardsvej1_0.jpg"
